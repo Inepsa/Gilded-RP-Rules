@@ -835,6 +835,47 @@ Please refer to the Business tab for more information.
 
 - Players are not allowed to have more than one character in the same line of work.
 
+# IC Pinboard Artwork Guidelines
+
+To keep IC pinboards immersive and consistent with the setting, all artwork must follow these rules.
+
+
+## Rules
+
+1. **Time Period**  
+   - Must fit pre-1940s styles and themes.  
+   - No modern elements, digital artifacts, or anachronisms.  
+   - Photos must be taken in-game or edited to look aged (e.g., sepia, grain). No crisp HD images.
+
+2. **Allowed Styles**  
+   - Early Lithographic Prints  
+   - Art Nouveau  
+   - Early Modernism & Propaganda  
+   - Art Deco  
+   - Bauhaus  
+   - Constructivism  
+
+3. **Quality**  
+   - AI art allowed but must be refined to remove errors.  
+   - Fix text issues, rendering flaws, or immersion-breaking styles.  
+   - Character depictions must look era-appropriate — no anime, hyper-realism, or overly cartoonish styles.
+
+4. **Text**  
+   - Must be clear, logical, and use period-appropriate fonts and phrasing.
+
+5. **Content**  
+   - No explicit or overly sexual imagery.  
+   - Must follow server-wide rules.
+
+6. **Poster Limit**  
+   - Max **2 posters** per pinboard per character/business.
+
+## Review & Rejection
+
+- Art Team reviews reported works for compliance.  
+- Low-effort, flawed, or immersion-breaking works will be rejected.
+- The Art Team reserves the right to remove posters they feel do not fit the image of Gilded, even if they otherwise follow the above rules.
+
 
 # Tailor Mannequin Script Rules
 
