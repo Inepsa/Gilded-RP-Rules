@@ -569,7 +569,7 @@ Examples
 # Corruption
 
 
-- Corruption within the Government, the DOJ, the Position of Sheriff, and the USMO is not allowed.
+- Corruption within the Position of Sheriff and the USMO is not allowed.
  
 - Being a corrupt player of any kind, within any government-overseen position, requires whitelist approval in a ticket.
 
