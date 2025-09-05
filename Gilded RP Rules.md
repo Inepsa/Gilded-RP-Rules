@@ -868,7 +868,9 @@ To keep IC pinboards immersive and consistent with the setting, all artwork must
    - Must follow server-wide rules.
 
 6. **Poster Limit**  
-   - Max **2 posters** per pinboard per character/business.
+   - Each character may post up to 2 posters per pinboard, including business advertisements.  
+   - No business may be advertised more than 2 times on the same pinboard.  
+
 
 ## Review & Rejection
 
