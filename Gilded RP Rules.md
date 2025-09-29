@@ -95,7 +95,7 @@ https//github.com/Inepsa/Gilded-RP-Rules/commits/main/
 
 - BE KIND to staff and to each other in Discord and in Tickets.
 
-- Change your Discord name to have your Character’s First and Last names, server nicknames may also not contain any special characters/fonts so staff can ping members for tickets/other needs.
+- Change your Discord name to have your Character’s first name, server nicknames may also not contain any special characters/fonts so staff can ping members for tickets/other needs.
  
 - Don’t DM staff regarding rules or game-related issues; open a ticket. Any advice given by staff in DMs is personal opinions, and not to be regarded as permission in any capacity if later brought into question.
 
