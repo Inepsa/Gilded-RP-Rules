@@ -95,7 +95,7 @@ https//github.com/Inepsa/Gilded-RP-Rules/commits/main/
 
 - BE KIND to staff and to each other in Discord and in Tickets.
 
-- Change your Discord name to have your Character’s First and Last names.
+- Change your Discord name to have your Character’s first name, server nicknames may also not contain any special characters/fonts so staff can ping members for tickets/other needs.
  
 - Don’t DM staff regarding rules or game-related issues; open a ticket. Any advice given by staff in DMs is personal opinions, and not to be regarded as permission in any capacity if later brought into question.
 
@@ -712,9 +712,12 @@ Examples
 ## Players interested in roleplaying a Pregnancy must abide by the following guidelines
 
 
-- Pregnancy has a minimum duration of 3 Weeks. Do not roleplay pregnancy loss. 
+- Pregnancy has a minimum duration of 2 Months. Do not roleplay pregnancy loss. 
 
-- After 3 weeks of Pregnancy RP, the child cannot be played by another player until an additional 3-week period has passed to reflect the child becoming 18. These 6 Weeks total are referred to as a Complete Cycle of Pregnancy RP.
+- After 2 Months of Pregnancy RP, the child cannot be played by another player until an additional 4 Month period has passed to reflect the child becoming 18. These 6 Months total are referred to as a Complete Cycle of Pregnancy RP.
+
+- Mothers who wish to have multiple kids at once(E.I. Twins, Triplets, ect.), must notify staff and apply for a perma chance, considering the ability at the time and height of loss of life during birth of this variety.
+- This varies based on the amount of children to be had.
 
 - After a Complete Cycle of Pregnancy RP, the player must wait an additional 2-week period before a new cycle of Pregnancy RP may commence.
 
