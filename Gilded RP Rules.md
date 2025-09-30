@@ -716,9 +716,6 @@ Examples
 
 - After 2 Months of Pregnancy RP, the child cannot be played by another player until an additional 4 Month period has passed to reflect the child becoming 18. These 6 Months total are referred to as a Complete Cycle of Pregnancy RP.
 
-- Mothers who wish to have multiple kids at once(E.I. Twins, Triplets, ect.), must notify staff and apply for a perma chance, considering the ability at the time and height of loss of life during birth of this variety.
-- This varies based on the amount of children to be had.
-
 - After a Complete Cycle of Pregnancy RP, the player must wait an additional 2-week period before a new cycle of Pregnancy RP may commence.
 
 - Parents can never play as their own children, unless both parents have died. Another Player may play the child once the child is 18 years of age.
