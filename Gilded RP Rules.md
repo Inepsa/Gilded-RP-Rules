@@ -356,6 +356,8 @@ Here are some examples of RDM or Random DeathMatch
 
 - Drug Selling/Crate Robbery: 3 criminals with 3 law responding
 
+- House Robberies: 3 criminals with 4 law responding
+
 - Store Robberies: 4 criminals with 5 law responding
 
 - Pharmacy Robberies: 4 criminals with 5 law responding
