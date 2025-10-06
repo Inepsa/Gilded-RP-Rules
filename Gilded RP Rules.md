@@ -698,11 +698,15 @@ Examples
 ## Players interested in roleplaying a Pregnancy must abide by the following guidelines
 
 
-- Pregnancy has a minimum duration of 2 Months. Do not roleplay pregnancy loss. 
+- Pregnancy has a minimum duration of 1.5 Months. Do not roleplay pregnancy loss. 
 
-- After 2 Months of Pregnancy RP, the child cannot be played by another player until an additional 4 Month period has passed to reflect the child becoming 18. These 6 Months total are referred to as a Complete Cycle of Pregnancy RP.
+- After 1.5 Months of Pregnancy RP, the child cannot be played by another player until an additional 3 Month period has passed to reflect the child becoming 18. These 4.5 Months total are referred to as a Complete Cycle of Pregnancy RP.
+
+- Cycle of Pregnancy RP is divided into four overall parts, First trimester is unrestricted, and allows for the same rp as always. Second trimester is slight restrictions, and you are unable to do crime during this time. Third trimester would be the most restrictive, with a cease to most activities, just before birth. The fourth part is raising the baby.
 
 - After a Complete Cycle of Pregnancy RP, the player must wait an additional 2-week period before a new cycle of Pregnancy RP may commence.
+
+- For realism reasons, due to the overarching chance of death during childbirth for multiple children at once, you may only have up to twins at any given time.
 
 - Parents can never play as their own children, unless both parents have died. Another Player may play the child once the child is 18 years of age.
  
