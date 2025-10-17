@@ -466,7 +466,7 @@ Examples
 
 - You (or your gang) can commit a “Store Robbery” 2 times per day, with a 2-hour cooldown.
 
-- You (or your gang) can rob a house multiple times per day, with a 2-hour cooldown.
+- You (or your gang) can rob a house multiple times per day, with a 30 minute cooldown.
 
 
 # Underground Hideouts
