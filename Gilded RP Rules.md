@@ -796,7 +796,7 @@ Examples
 ​
 - Staff reserves the right to remove your business due to inactivity for a period of 30 days. Make a ticket if you are on an extended trip or are concerned regarding business repossession.
 
-- Employees and Criminals cannot steal from business storage or ledgers.
+- Employees and Criminals cannot steal from business storage or ledgers. (Includes law and doctor offices)
   
 - Before selling a business IC, you are REQUIRED to make a ticket with the proper paperwork. Not complying with this will result in the removal of the business and may prevent future ownership of new businesses.
 
@@ -929,32 +929,28 @@ To keep IC pinboards immersive and consistent with the setting, all artwork must
 
 # 1. General Camp and Build Rules
 
-## Camps must remain simple, consisting of
+## Camps should look like a camp, consisting of
+
+
 - Tents (maximum of 4 per camp)
 
-- Basic camp-appropriate furniture (e.g., cots, campfire, chairs/benches)
+- Basic camp-appropriate furniture (e.g., cots, campfire, chairs/benches, crates/storages)
 
 - One small foundation (if necessary for flat ground, not more than 1ft off the ground if absolutely necessary)
 
-- 4 storage items, Storage tents count as a storage!
-
-- Lighting (within permitted limits, see Section 2)
-
 - One camp per person.
 
-- Maximum 20 items per camp (includes lighting, tents, storage, camp furniture, and decor)
+- Camp, business and house claims have built in build limits
     
-- Placing a Camp or Storages in or around Mining Locations "Public or Hidden" will be removed without warning!
+- Placing a Camp or Storage in or around Mining Locations "Public or Hidden" will be removed without warning!
 
 
 # 2. Storage and Lighting Limits
 
 
-- Maximum 4 storage items per camp/property. Use Space Bar storage for businesses or private property if more is needed.
-
 - Do not place more than 5 Light Emitting Object per area or across the map.
 
-- Business owners may place up to 4 storage items inside or around their businesses.
+- There are no limits on storage containers just follow max build limits
 
 
 # 3. Placement and Space Rules
@@ -981,7 +977,7 @@ To keep IC pinboards immersive and consistent with the setting, all artwork must
 - Historic Sites = Ruins, burned-down buildings, pre-placed game camps, stone walls, or unique landmarks like the Giant Tree north of Blackwater or the tiny church in Lemoyne.
 
 
-# Appearance
+# Character Appearance
 
 
 - You must use a realistic-looking appearance. 
