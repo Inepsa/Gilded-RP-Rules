@@ -1,33 +1,23 @@
-# Basic Terms Of Service
+# Basic Terms Of Service and Community Policies
 
 - Personal insults and/or verbal attacks outside of specific role-play situations and all forms of harassment are prohibited and will result in a ban.
 
+- The utilization of glitches, exploits(macros), hacks, or bugs for personal gain will result in disciplinary action. There is a zero tolerance for hacking, including but not limited to script/resource injection, which will result in a permanent ban. If you find a glitch or in-game exploit, please notify the staff team by opening a ticket.
+
 - Racism, Homophobia, Transphobia, Sexism, Hate Speech, and all forms of targeted, derogatory, or abusive language will not be tolerated and will result in a permanent ban.
 
+- Suicide roleplay or self-harm roleplay of any kind is not tolerated and will result in a permanent ban.
+
 - Gilded RP is set in an alternate universe from real life. In this universe, slavery does not exist; thus, any type of roleplay involving slavery is prohibited.
-
-- The application to be whitelisted is in the Roles and Applications channel on Discord!
-
-
-*Scroll down to the bottom to view a video of someone reading the rules to you*
-
-#### This ruleset is hosted on GitHub and has a changelog here
-https//github.com/Inepsa/Gilded-RP-Rules/commits/main/
-
-# Basic Community Policies
-
 
 - Should disagreements or instances of rule-breaking occur in the game, all members should attempt to roleplay through them without breaking character. Once the scene is completed, members may then send in reports to staff. If the issue is urgent and must be dealt with immediately, such as a Zero Tolerance rule break, you may open a ticket to report the issue.
 
 - If staff deems the overall quality of roleplay subpar or inconsistent with the server's goals and values, you may be placed under evaluation by staff. If your in-character conduct is deemed detrimental to the overall quality of roleplay, you may be subject to disciplinary action or removal from the server entirely. 
 
-- All weapons are lethal. This means that all weapon interactions (shooting, stabbing, throwing, etc.) have consequences and must be handled in character as if they are real. 
+- The application to be whitelisted is in game, a quiz upon first time logging in.
 
-- The utilization of glitches, exploits, hacks, or bugs for personal gain will result in disciplinary action. There is a zero tolerance for hacking, including but not limited to script/resource injection, which will result in a permanent ban. If you find a glitch or in-game exploit, please notify the staff team by opening a ticket.
-
-- Third-party crosshairs are not allowed in duels.
-
-- Suicide roleplay or self-harm roleplay of any kind is not tolerated and will result in a permanent ban.
+#### This ruleset is hosted on GitHub and has a changelog here
+https//github.com/Inepsa/Gilded-RP-Rules/commits/main/
 
 
 # General Rules 
@@ -40,9 +30,9 @@ https//github.com/Inepsa/Gilded-RP-Rules/commits/main/
 
 - Staff is dedicated to providing a positive and enjoyable experience for everyone within the community.
  
-- Rules as written and rules as intended are both valid aspects that staff will consider during any disciplinary action in regard to any rule, policy,  or rule enforcement.
+- Rules as written and rules as intended are both valid aspects that staff will consider during any disciplinary action in regard to any rule, policy, or rule enforcement.
 
-
+  
 ## Character Guidelines
 
 - Characters must be 18+, Players must be 18+.
@@ -55,7 +45,7 @@ https//github.com/Inepsa/Gilded-RP-Rules/commits/main/
 
 - If you intend to engage in hostile RP (eg. robbing) it is HIGHLY RECOMMENDED that you record using Medal or some other platform in case your scene becomes involved in a ticket with a rule break in question.
 
- 
+
 # Discord Rules
 
 - Abide by the Discord TOS https//discord.com/terms
@@ -66,32 +56,18 @@ https//github.com/Inepsa/Gilded-RP-Rules/commits/main/
  
 - Don’t DM staff regarding rules or game-related issues; open a ticket. Any advice given by staff in DMs is personal opinions, and not to be regarded as permission in any capacity if later brought into question.
 
-- Don't talk negatively about other servers and players.
-
 - No NSFW content (Not Safe For Work).
  
 - Players may disagree with staff, but MUST respect decisions when they are made and conduct conversations in a manner that shows respect.
 
- 
+
 # Zero Tolerance Rules 
 
-- No coordinating IC events OOC. This can all be done IC. ANYTHING that would persuade your actions IC, including where you go, who you meet up with, and what you are preparing to do, is META.
-
-- Suicide RP, including any threats or harassing comments in the Discord, is not allowed.
- 
-- No Hate speech of any kind
- 
-- No racism/sexism/homophobia/transphobia/rape
- 
-- No use of N or R words, among others.
- 
 - Sexual Abuse and Domestic Abuse and/or claims thereof on an In Character Level are off limits due to OOC triggers
  
 - Sharing Items or Money between your own characters for any reason is prohibited
 
 - Child murder/torture, or even threats of such, are never allowed, even when still in the womb. For more information, see “Pregnancy RP and Aging”
-
-- Using macros to fish, mine, craft, or anything else while AFK, or even while IC is powergaming. Do not do this. 
 
  
 # Communication Standards
@@ -108,6 +84,7 @@ https//github.com/Inepsa/Gilded-RP-Rules/commits/main/
 
  
 # Voice ID
+
 
 ## Voice Identification Restrictions
 
@@ -183,6 +160,8 @@ https//github.com/Inepsa/Gilded-RP-Rules/commits/main/
 # Fail RP
 
 - FailRP is defined as doing something unrealistic or rule-breaking. Examples include but are not limited to
+
+- All weapons are lethal. This means that all weapon interactions (shooting, stabbing, throwing, etc.) have consequences and must be handled in character as if they are real. 
 
 - Shooting limbs off a downed player. 
 
@@ -406,9 +385,7 @@ Failure to comply is a direct violation of the Voice ID rule and constitutes pow
 
 - After a crime has been committed, you can change your clothes once within 1 hour of said crime.
 
-
 # Player Robberies
-
 
 - You cannot rob and kill. Pick one or the other! This includes robbing that player's horse or wagons.
 
@@ -446,9 +423,7 @@ Examples
 
 - You cannot chain rob players over and over. Robberies should include RP for both sides. Repeated, low-tier robberies within close proximity to each other will be considered chain robbing.
 
- 
 # Train Robberies
-
 
 - Train drivers are obliged to stop the train if a wagon or ambush is placed clearly on the track.
  
@@ -456,9 +431,7 @@ Examples
 
 - The Security Team employed by the train company should be the group protecting the train from being robbed but can pull from passengers to make a full 6 man if needed.
 
-
 # Group Robbery Limits
-
 
 - You (or your gang) can commit a “Bank Robbery”, or a “Doctor’s Office Robbery” 7 times a week, 1/day.
 
@@ -468,10 +441,8 @@ Examples
 
 - You (or your gang) can rob a house multiple times per day, with a 30 minute cooldown.
 
-
 # Underground Hideouts
 
-​
 - Criminals raiding other hideouts should do so after there has been significant RP leading to a raid. You should know who you're raiding and have a purpose, not just blindly knocking on doors hoping for loot. Stake them out, look for patterns, learn what they're doing with it. Have some scenes before the raid, build tension, don't just hit them to hit them.
 
 - Law also needs to put significant rp into it, investigative rp should take place. Stakeouts should happen. These aren't supposed to be, "Let's ride around with a war wagon and knock on every door we can find and see what we can get".
@@ -488,19 +459,15 @@ Examples
  
 - Non-whitelisted gangs and groups can own 1 hideout, whitelisted gangs can have two.​ Whitelisted gangs can pick the location of their second hideout by making a ticket.
  
-​
 # Wagon and Horse Saddlebag Robberies
  
-​
 - You must RP with the person driving the wagon/riding the horse to rob it, don't just rob wagons/saddlebags sitting around without providing RP.
 
 - Wagons/Horses have no stack limits for robberies. Robbing the wagon means you forgo the robbery of the rider or passengers.
 
 - Wagons/Horses can be stolen and ridden away, creating a chase with the owner. In a chase, when the wagon owner, law, or vigilantes catch up, they must demand the wagon to stop, announcing themselves. If the wagon refuses to stop, gunplay is now live.
 
- 
 # NVL / Fear RP 
-
 
 - NVL or “No Value for Life” and Fear RP are defined as showing fear for your life in threatening situations. Treat your character’s life as if they only have one. Your character would not be fearless because you can “respawn”. Failure to value your life can result in harm to your character, so act as your character would in any and all fear-inducing events.
 
@@ -512,9 +479,7 @@ Examples
 
 - Victims must wait 1 hour after a scene ends before seeking interaction or revenge of any sort on their aggressors.
 
-​
 # Vigilantism
-
 
 - Vigilantism is defined as entering a hostile situation to help or save someone in trouble, while not being lawfully permitted to do so.
 
@@ -522,9 +487,7 @@ Examples
 
 - Helping someone in the wild is doable, but it comes with risk. 
 
- 
 # Body Dumping
-
 
 - Players are prohibited from dumping bodies; the only exception to moving a body is moving it to a doctor's office or somewhere to be revived.
 
@@ -536,9 +499,7 @@ Examples
 
 - Once you're out of sight of the body from the downed player's perspective, or farther than yelling distance away, they have the right to respawn or call a doctor. Do not leave and come back.
 
-​
 # Permanent Harm in Torture RP
-
 
 - You must get consent from the party you plan to torture and cause permanent physical harm to. Please get consent using /do. If you torture someone this way, you are automatically consenting to be tortured in the future by that same person, not everyone.
 
@@ -550,22 +511,7 @@ Examples
 
 - Without a /do in return torture cannot proceed. This automatically logs this on our end
  
-
- 
-# Corruption
-
-
-- Corruption within the Position of Sheriff and the USMO is not allowed.
- 
-- Being a corrupt player of any kind, within any government-overseen position, requires whitelist approval in a ticket.
-
-- Crime does not always equal corruption. If a character commits crimes and is in a government position, there is a chance for in-character repercussions. Corruption, when unapproved, may result in a ban if in-character repercussions are unable to be enacted.
-
-- Approval for corruption does not allow stealing from Law or Doctor Storages, or their business ledgers.
-
- 
 # NLR (New Life Rule)
-
 
 - If you have to take a local doctor (respawning/pressing E), then your memory of the situations that led to the events of your demise is wiped.
 
@@ -575,9 +521,7 @@ Examples
 
 - Do not take a local doctor (pressing E) if there are people right around you or roleplay is still ongoing at the scene you are in.
 
- 
 # Baiting
-
 
 - Do not kill yourself or others to bait law or doctors to your location. Using Alerts of any Kind is also not allowed.
 
@@ -585,9 +529,7 @@ Examples
 
 - Ambushing or Setting a Trap, so long as the Trap is in a logical location, like an Alley, a Secluded Space, or in the Wilds, is also allowed.
 
- 
 # Combat Logging
-
 
 - Logging off in the middle of any scene is not allowed.
 
