@@ -93,18 +93,10 @@ https//github.com/Inepsa/Gilded-RP-Rules/commits/main/
 - Players can be identified through a combination of unique features such as buckles, unique guns, specific clothing sets, and other distinguishing items and features. Voice identification alone is not permitted while the player is masked, as the voice may belong to a different character played by the same person.
 
 - Always respect a player's identity claims, even if you have suspicions otherwise.
- 
-## Mask Usage Rules
-
-- Masks used for criminal activities should only be worn when intending to commit crimes or during large-scale criminal activities such as store and bank robberies, or other law-alerting actions.
-
-- Masks that are part of a character’s identity (e.g., a native headdress) do not need to be removed on an Out of Character (OOC) level. However, in-character laws and regulations in towns and jurisdictions must be respected and adhered to, or be prepared to face IC repercussions.
 
 - If you wear a mask that is a significant part of your character's identity, you open yourself up to being identified by that mask. This means other players can recognize your character through this distinctive mask.
  
 ## Multiple Characters Consideration
-
-- If a player is unmasked and insists they are not the person you think they are, respect their claim and move on.
 
 - Keep in mind that not all players can change their voice. Players may want to roleplay multiple characters using the same voice. Respect their choice to portray different characters even if the voice sounds familiar.
  
@@ -121,9 +113,7 @@ https//github.com/Inepsa/Gilded-RP-Rules/commits/main/
 
 - If making an anonymous player report, a bug report, or an exploit report, please have clips at the ready alongside your message, in order to address things promptly.
 
-- Clips, or Video Recordings, are helpful for gaining context for tickets. Provide start to finish as best as possible. Edited clips, modified in an attempt to hide rule breaks or deceive staff during a ticket, may result in clips being disregarded or taken as implications towards rule breaks.
-
-- In addition, clips under 20-30 seconds in length may be disregarded as they do not showcase enough of a scene to make a ruling.
+- Clips, or Video Recordings, are helpful for gaining context for tickets. Provide start to finish as best as possible. Edited clips, modified in an attempt to hide rule breaks or deceive staff during a ticket, may result in clips being disregarded or taken as implications towards rule breaks. In addition, clips under 20-30 seconds in length may be disregarded as they do not showcase enough of a scene to make a ruling.
 
  
 # Player Equipment
@@ -278,16 +268,8 @@ Guns should not be the first method of conflict. Prioritize meaningful RP and st
 Roleplay Over Rules:
 Stay immersive and maintain RP, even if others break rules.
 
-# Fast Travel Locations
-
-- There are numerous mechanics that "teleport" you to another location as a form of fast travel. (Eg. Guarma Boat, Casino Boat, Apartments, and some Businesses.)
-
-- These locations should not be directly camped; instead, pick a location to intercept travel to and from these locations that allows the opposing party a chance to set themselves up and get on their feet.
-
 
 # General Hostility Rules
-
-- Holding someone up or immediately attacking someone out of one of these exits is strictly prohibited. Allow any party exiting the ability for counterplay (to gain cover or re-enter/exit the building), as per the RDM Rules and Guidelines.
 
 - Criminals/groups are expected to ride around with no more than 6 people when doing any criminal activity.
 
@@ -298,8 +280,6 @@ Stay immersive and maintain RP, even if others break rules.
 - Saint Denis and Blackwater have fully manned law offices, whether you see a single player there or not.
 
 - Do NOT rob or take hostage any player(s) that are just spawning in. Give them ample time to wake up, equip their items, and walk about as their character before engaging in hostile RP with them.
-
-- Groups can roam around looking for trouble, or intent to attack a target, with 6 people. If you roam with masks on, you are considered “looking for trouble”. 
 
 - Sheriffs, Lawmen, and Marshals can defend towns with up to the scene limits. If a bank alert comes in, they can respond with 8; if a fort alert comes in, they can respond with 10.
 
@@ -333,21 +313,6 @@ Stay immersive and maintain RP, even if others break rules.
 
 - Fort Robberies: 6 criminals with 10 law responding
 
-​
-# Green Zones
-
-## Law Offices
-
-- You may not commit any form of criminal or violent RolePlay inside a law office during an arrest procedure.
-
-- This may not be used as a “shield” for law - if an active scene is going on and the sheriff runs inside for cover during a chase, etc, this voids the safe zone.
-
-## Doctor's Office
-
-- You may not commit any form of criminal or violent Roleplay inside a doctor's office during a Medical RP scenario.
-
-- This may not be used as a “shield” for doctors - if an active scene is going on and the doctor runs inside for cover during a scene, etc., this voids the safe zone.
-
  
 # Criminal Activity / Robberies
 
@@ -372,12 +337,7 @@ Stay immersive and maintain RP, even if others break rules.
 
 - You can't break free from a hogtie unless loosened or left for 5 minutes alone and unattended.
 
-
-# Criminal Activity / Robberies Cont
-
-- Criminals must not wear completely black clothing with no identifiable features while committing crimes. They must have at least two clearly distinguishable features, such as a buckle, bandana, distinct clothing item, firearm, horse, or saddle.
-
-Failure to comply is a direct violation of the Voice ID rule and constitutes power-gaming, as it deliberately prevents identification, pursuit, or retaliation. This rule is strictly enforced, and violations will result in immediate consequences.
+- Criminals must not wear completely black clothing with no identifiable features while committing crimes. They must have at least two clearly distinguishable features, such as a buckle, bandana, distinct clothing item, firearm, horse, or saddle. Failure to comply is a direct violation of the Voice ID rule and constitutes power-gaming, as it deliberately prevents identification, pursuit, or retaliation. This rule is strictly enforced, and violations will result in immediate consequences.
 
 - You cannot commit any crime 30 minutes before or 15 minutes after the restart.
 
@@ -391,20 +351,10 @@ Failure to comply is a direct violation of the Voice ID rule and constitutes pow
 
 - If a player fails to Value Their Life during criminal activity because of robbery rules, their protection against being shot/killed may be revoked. Staff will discern through tickets after the fact.
 
-- The act of searching someone’s pockets means you have chosen to rob them. The only exception is to obtain the victim’s ID Card, and only their ID Card.
-
 - The goal of robberies should be to create a story for all involved, not just for the sake of robbing.
 
 - You can only take half of each item stack in someone's inventory. Single items can be taken.
 
-- You can have one sidearm and one longarm protected from being robbed, but carrying any more than that opens you up to being robbed of all weapons.
-
-Examples 
-
- - Carry a Carcano and a Revolver, and those guns can't be robbed. 
- - Carry a Carcano and two revolvers, and all weapons can be robbed.
- - Carry dual revolvers with no longarms; all weapons can be robbed.
- 
 - Do not rob new starting players of their starter money. If you were robbed of your starting cash, open a ticket.
 
 - You must demonstrate a clear hostile intent to rob an individual and give them a chance to react.
@@ -427,7 +377,7 @@ Examples
 
 - Train drivers are obliged to stop the train if a wagon or ambush is placed clearly on the track.
  
-- Passengers should remain in the train cars and stay out of the conflict.
+- Passengers must remain in the train cars and stay out of the conflict.
 
 - The Security Team employed by the train company should be the group protecting the train from being robbed but can pull from passengers to make a full 6 man if needed.
 
@@ -481,11 +431,8 @@ Examples
 
 # Vigilantism
 
-- Vigilantism is defined as entering a hostile situation to help or save someone in trouble, while not being lawfully permitted to do so.
-
 - Do not get involved in any scripted robbery(Bank, Store, Dock, Doctor, Fort, etc.) if you are not a part of the active law or criminal group involved. 
 
-- Helping someone in the wild is doable, but it comes with risk. 
 
 # Body Dumping
 
