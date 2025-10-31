@@ -467,7 +467,7 @@ Stay immersive and maintain RP, even if others break rules.
 
 - If a scene is making you uncomfortable or is breaking a zero-tolerance rule, make a ticket straight away without breaking RP and talk with us ASAP.
 
-- Players must stay logged in for at least 15 minutes after participating in any conflict RP. If you log out before, it will count as a combat log.
+- Players must stay logged in for at least 15 minutes after participating in any conflict/crime RP. If you log out before, it will count as a combat log.
 
 # Alternate Characters
 
