@@ -377,6 +377,10 @@ Stay immersive and maintain RP, even if others break rules.
 
 - DOJ may not be corrupt.
 
+- If you do go the route of corruption, you must be willing to face the consequences of your actions.
+
+- You must abide by all robbery rules, and may not craft supplies to sell.
+
 # Underground Hideouts
 
 - Criminals raiding other hideouts should do so after there has been significant RP leading to a raid. You should know who you're raiding and have a purpose, not just blindly knocking on doors hoping for loot. Stake them out, look for patterns, learn what they're doing with it. Have some scenes before the raid, build tension, don't just hit them to hit them.
