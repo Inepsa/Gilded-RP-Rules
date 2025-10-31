@@ -19,7 +19,6 @@
 #### This ruleset is hosted on GitHub and has a changelog here
 https//github.com/Inepsa/Gilded-RP-Rules/commits/main/
 
-
 # General Rules 
 
 - Our ruleset is intended to be clear while encouraging roleplay between players. If you suspect a rule to have been broken mid-scene, wait until the scene concludes, then open a ticket.
@@ -32,7 +31,6 @@ https//github.com/Inepsa/Gilded-RP-Rules/commits/main/
  
 - Rules as written and rules as intended are both valid aspects that staff will consider during any disciplinary action in regard to any rule, policy, or rule enforcement.
 
-  
 ## Character Guidelines
 
 - Characters must be 18+, Players must be 18+.
@@ -44,7 +42,6 @@ https//github.com/Inepsa/Gilded-RP-Rules/commits/main/
 - You must be in character on the server at all times. Roleplay through the encounters in front of you. If there is a rule break, report it AFTER the scenario has completed. (This does not pertain to major rule breaks like hacking, racism, sexual abuse, or major harassment).
 
 - If you intend to engage in hostile RP (eg. robbing) it is HIGHLY RECOMMENDED that you record using Medal or some other platform in case your scene becomes involved in a ticket with a rule break in question.
-
 
 # Discord Rules
 
@@ -60,7 +57,6 @@ https//github.com/Inepsa/Gilded-RP-Rules/commits/main/
  
 - Players may disagree with staff, but MUST respect decisions when they are made and conduct conversations in a manner that shows respect.
 
-
 # Zero Tolerance Rules 
 
 - Sexual Abuse and Domestic Abuse and/or claims thereof on an In Character Level are off limits due to OOC triggers
@@ -69,7 +65,6 @@ https//github.com/Inepsa/Gilded-RP-Rules/commits/main/
 
 - Child murder/torture, or even threats of such, are never allowed, even when still in the womb. For more information, see “Pregnancy RP and Aging”
 
- 
 # Communication Standards
 
 - We are an English-speaking server; you must be able to speak English to play here.
@@ -81,10 +76,8 @@ https//github.com/Inepsa/Gilded-RP-Rules/commits/main/
 - Our primary method of communication is voice. If you want to play someone without a voice, please make a ticket to obtain approval and access to RP supplements in-game.
 
 - "Mute" players who wish to engage in hostile roleplay must have someone else verbally initiate a conflict or a robbery for them. They should also present hostile intent with emotes, /do commands, and other methods to show rising tension.
-
  
 # Voice ID
-
 
 ## Voice Identification Restrictions
 
@@ -100,7 +93,6 @@ https//github.com/Inepsa/Gilded-RP-Rules/commits/main/
 
 - Keep in mind that not all players can change their voice. Players may want to roleplay multiple characters using the same voice. Respect their choice to portray different characters even if the voice sounds familiar.
  
-
 # Submitting a Ticket
 
 - Upon review of tickets, staff will take into consideration all accounts and weigh the effect it has on future roleplay. All conclusions are at the staff's discretion. 
@@ -114,7 +106,6 @@ https//github.com/Inepsa/Gilded-RP-Rules/commits/main/
 - If making an anonymous player report, a bug report, or an exploit report, please have clips at the ready alongside your message, in order to address things promptly.
 
 - Clips, or Video Recordings, are helpful for gaining context for tickets. Provide start to finish as best as possible. Edited clips, modified in an attempt to hide rule breaks or deceive staff during a ticket, may result in clips being disregarded or taken as implications towards rule breaks. In addition, clips under 20-30 seconds in length may be disregarded as they do not showcase enough of a scene to make a ruling.
-
  
 # Player Equipment
 
@@ -129,7 +120,6 @@ https//github.com/Inepsa/Gilded-RP-Rules/commits/main/
 - Gatling guns, maxim guns, Hotchkiss cannons, breech cannons, and other similar weapons must be transported via wagon, and must be placed with at least three /dos of putting the weapon together at the location, and must be taken down the same way, then loaded back into the wagon and transported to a stable/hideout/home before the wagon can be fled.
 
 - Unrealistic Colors on Character Hair, Horse Hair, and Horse Tack that don't meet period guidelines are up for scrutiny.
-
 ​
 # Role Play Terms and Definitions
 
@@ -139,14 +129,12 @@ https//github.com/Inepsa/Gilded-RP-Rules/commits/main/
 
 - If a ticket is shown to have been opened with malicious intent towards another party and no rule breaks are found, this will be regarded as a notable offense by staff, at their discretion.
 
- 
 # RP Bleed
 
 - RP Bleed is defined as taking issues, disagreements, or problems from inside RP to the Outside World, or from the Outside World into RP.
 
 - We are not here to police your personal relationships. While we will obviously remove anyone who does not align with our goals to create a healthy, safe community, we are not interested in mediating personal disagreements between players. Do not let IC interactions impact OOC relationships. 
 
-​
 # Fail RP
 
 - FailRP is defined as doing something unrealistic or rule-breaking. Examples include but are not limited to
@@ -163,7 +151,6 @@ https//github.com/Inepsa/Gilded-RP-Rules/commits/main/
 
 - Supernatural RP. Although this existed through rumors around 1901, situations of this nature are often disproven or explained away through illnesses, mental states, and so on.
  
-​
 # Metagaming
 
 - Metagaming is defined as using information in the game that you have not learned by playing that character, for the benefit of yourself, your character, or others in your group.
@@ -190,7 +177,6 @@ https//github.com/Inepsa/Gilded-RP-Rules/commits/main/
 
 Exception: If the description mentions visible text or inscriptions (e.g., "Jane's cookbook written on the front"), you can use that information in-character.
 
-
 # Exploiting
 
 - The use of in-game exploits to gain advantages over other players or to give your character advantages is strictly prohibited.
@@ -199,7 +185,6 @@ Exception: If the description mentions visible text or inscriptions (e.g., "Jane
 
 - If you find a bug or something that is considered an exploit, bring it to the staff's attention immediately. Not reporting this is grounds for a ban.
 
- 
 # Powergaming
 
 - Powergaming is defined as the act of always having to win through any means or at any cost. Powergaming includes, but is not limited to
@@ -224,7 +209,6 @@ Exception: If the description mentions visible text or inscriptions (e.g., "Jane
 
 - Fake deaths must be approved by the admin team through a ticket.
 
- 
 # Hostile Roleplay Rules
 
 # Random Deathmatch (RDM)
@@ -239,7 +223,6 @@ Examples of RDM:
 
 - “Low-tier initiation” (using weapons without meaningful dialogue).
 
-
 Not RDM:
 
 - Robberies or threats with clear demands (e.g., “Hands up or else”).
@@ -249,7 +232,6 @@ Not RDM:
 - Conflict that escalates naturally through RP.
 
 - Self-defense after a threat or attack.
-
 
 Best Practices to Avoid RDM:
 
@@ -261,13 +243,11 @@ Best Practices to Avoid RDM:
 
 - If harming NPCs, still roleplay the scene.
 
-
 Gunplay Rule:
 Guns should not be the first method of conflict. Prioritize meaningful RP and storytelling before resorting to violence.
 
 Roleplay Over Rules:
 Stay immersive and maintain RP, even if others break rules.
-
 
 # General Hostility Rules
 
@@ -279,7 +259,7 @@ Stay immersive and maintain RP, even if others break rules.
 
 - Saint Denis and Blackwater have fully manned law offices, whether you see a single player there or not.
 
-- Do NOT rob or take hostage any player(s) that are just spawning in. Give them ample time to wake up, equip their items, and walk about as their character before engaging in hostile RP with them.
+- Do NOT rob or take hostage any player(s) that are just spawning in. Give them ample time to wake up, equip their items, and walk about as their character before engaging in hostile RP with them. In inverse, if someone is obviously about to log out, don't rob or take them hostage.
 
 - Sheriffs, Lawmen, and Marshals can defend towns with up to the scene limits. If a bank alert comes in, they can respond with 8; if a fort alert comes in, they can respond with 10.
 
@@ -292,6 +272,16 @@ Stay immersive and maintain RP, even if others break rules.
 - You cannot hold someone hostage for longer than 20 minutes before starting the robbery you have planned.
 
 - In Hostile RP, leaving Line of Sight on your victim or aggressor for 5 minutes means the scene is considered over, and proper Roleplay engagement must commence to create a new scene.
+
+- Do not get involved in any scripted robbery(Bank, Store, Dock, Doctor, Fort, etc.) if you are not a part of the active law or criminal group involved.
+
+- Criminals must not wear completely black clothing with no identifiable features while committing crimes. They must have at least two clearly distinguishable features, such as a buckle, bandana, distinct clothing item, firearm, horse, or saddle. Failure to comply is a direct violation of the Voice ID rule and constitutes power-gaming, as it deliberately prevents identification, pursuit, or retaliation. This rule is strictly enforced, and violations will result in immediate consequences.
+
+- For any criminal activity, only 1 Lawman may be subjected to becoming a hostage.
+
+- After a crime has been committed, you can change your clothes once within 1 hour of said crime.
+
+- If in an active scene before restart, you must log back in to continue the scene, or be subject to a combat logging ban.
 
 ## Scene Specific Limits are what a group/gang/law can bring to each event type
 
@@ -312,7 +302,6 @@ Stay immersive and maintain RP, even if others break rules.
 - Bank Robberies: 6 criminals with 8 law responding
 
 - Fort Robberies: 6 criminals with 10 law responding
-
  
 # Criminal Activity / Robberies
 
@@ -323,7 +312,6 @@ Stay immersive and maintain RP, even if others break rules.
 - Remand should only be applied for anarchy charges or other extreme cases as approved by a judge
 
 - A judge can pursue a life sentence in prison in a case if significant RP has taken place to warrant it, but this must be approved by staff, where a discussion is held with the player facing life in prison
-
 
 # Ropes/Bindings
 
@@ -336,14 +324,6 @@ Stay immersive and maintain RP, even if others break rules.
 - Once hogtied, players should not break out of the ropes. Players should never break out of hogties while in an active scene with their captor(s), while being carried, or when on the back of a horse
 
 - You can't break free from a hogtie unless loosened or left for 5 minutes alone and unattended.
-
-- Criminals must not wear completely black clothing with no identifiable features while committing crimes. They must have at least two clearly distinguishable features, such as a buckle, bandana, distinct clothing item, firearm, horse, or saddle. Failure to comply is a direct violation of the Voice ID rule and constitutes power-gaming, as it deliberately prevents identification, pursuit, or retaliation. This rule is strictly enforced, and violations will result in immediate consequences.
-
-- You cannot commit any crime 30 minutes before or 15 minutes after the restart.
-
-- For any criminal activity, only 1 Lawman may be subjected to becoming a hostage.
-
-- After a crime has been committed, you can change your clothes once within 1 hour of said crime.
 
 # Player Robberies
 
@@ -391,6 +371,8 @@ Stay immersive and maintain RP, even if others break rules.
 
 - You (or your gang) can rob a house multiple times per day, with a 30 minute cooldown.
 
+- You (or your gang) can rob a player, with a 2-hour cooldown.
+
 # Underground Hideouts
 
 - Criminals raiding other hideouts should do so after there has been significant RP leading to a raid. You should know who you're raiding and have a purpose, not just blindly knocking on doors hoping for loot. Stake them out, look for patterns, learn what they're doing with it. Have some scenes before the raid, build tension, don't just hit them to hit them.
@@ -428,11 +410,6 @@ Stay immersive and maintain RP, even if others break rules.
 - This does not allow firing without verbal interaction and an initial compliance and acknowledgement of the scene.
 
 - Victims must wait 1 hour after a scene ends before seeking interaction or revenge of any sort on their aggressors.
-
-# Vigilantism
-
-- Do not get involved in any scripted robbery(Bank, Store, Dock, Doctor, Fort, etc.) if you are not a part of the active law or criminal group involved. 
-
 
 # Body Dumping
 
@@ -484,9 +461,7 @@ Stay immersive and maintain RP, even if others break rules.
 
 - Players must stay logged in for at least 15 minutes after participating in any conflict RP. If you log out before, it will count as a combat log.
 
- 
 # Alternate Characters
-
 
 - Alternate Characters are extra characters a player can make in order to experience new stories and different aspects of the world. Characters should be unique from one another and are not allowed to be a direct relative of another character you already play. Alternate characters should strive to have unique stories that do not immediately connect with, or interact with, groups or contacts of your other characters. Do not seek out the same stories or people that your other characters already associate with; crossover in passing is acceptable, but being ingrained in multiple characters blurs the lines of RP and gives great risk of bleeding.
 
@@ -512,11 +487,9 @@ Stay immersive and maintain RP, even if others break rules.
  
 - Do not make alternate or additional characters to further the RP or storyline of your other characters. Allow storylines to happen organically and gradually. 
 
-​
 # Medical Rules
 
 ## Injuries and Alerts
-
 
 - Injuries are common after conflict, and if you are knocked unconscious, calling a doctor may be necessary. Using /alertdoctor sends out a proximity alert to the closest doctors near you.
 
@@ -528,9 +501,7 @@ Stay immersive and maintain RP, even if others break rules.
 
 - After using a medical alert and seeing “A Doctor is on the Way”, give a doctor 15 minutes to try and get to you before respawning. After 15 minutes, you must take the light instead.
 
-- If you have not been body dumped, and there is no confirmation that a doctor is responding, you must take the light when the time comes.
-
--  After using a doctor or private practice alert and seeing “A Doctor is on the Way”, give a doctor 15 minutes to try and get to you before respawning.
+- After using a doctor or private practice alert and seeing “A Doctor is on the Way”, give a doctor 15 minutes to try and get to you before respawning.
 
 - Do not talk using your microphone while down, you need to respond and give doctors clues using text via "/me large cut on arm". You can make noises and sounds consistent with your wounds at any time as long as kept realistic
 
@@ -540,34 +511,27 @@ Stay immersive and maintain RP, even if others break rules.
 
 - You are not allowed to lie about the treatment you received from a doctor when being inspected by other doctors.
 
-- Contracting a disease like TB, Pneumonia, or other diseases that would result in death in 1903 will result in the permanent death of your character within a timeframe of your choosing. You get to choose if you contract these or not, so be careful.
+- Contracting a disease like TB, Pneumonia, or other diseases that would result in death in 1903 will result in the permanent death of your character within a timeframe of your choosing. You get to choose if you contract these or not, so be careful. (These diseases require Staff Approval)
 
 - Players that are down for a period exceeding 30 minutes within an active scene where doctors, law, or other medical practitioners are on scene and not reviving you or providing full medical treatment are allowed to revive. All usual New Life Rules still apply.
  
-
 ## Injury Guidelines
-
 
 - As a helpful guide to assist with Role Playing injuries to varying magnitudes, we have provided the following table for day/time conversions between IRL and Server Days.
 
- 
 ### Time/Day Converter for County Days
 
 1 Day IC = 60 Minutes IRL
 
 1 Week IC = 7 hrs IRL
 
-
 # Private Practice Doctors
-
 
 - All distribution of revive medication and smelling salts must be documented in the proper channels. There are no private sales of these meds, and none are given for free. It is for server health that it is tracked. Any violation of this will result in OOC consequences, as well as Roleplay-oriented IC consequences.
 
-
 # Outlaw Doctors
 
-
-- Outlaw doctors can rob cash or one item, up to a half stack, from a player they provide treatment to, are in a medical scene with, or revive. This is allowed even within the robbing cooldown by an outlaw doctor only. All other standard robbery rules still apply. This is how outlaw doctors get paid.
+- Outlaw doctors can rob from a player they provide treatment to, are in a medical scene with, or revive. This is allowed even within the robbing cooldown by an outlaw doctor only. All other standard robbery rules still apply. This is how outlaw doctors get paid.
 
 - You cannot call a third-party outlaw doctor to have someone robbed that you or your gang have killed. You can call them to treat them and continue rp, but the downed victims shouldn't be robbed as it can gain favor with whoever called them in. The od should be paid by the gang or group that called them
 
@@ -576,16 +540,12 @@ Stay immersive and maintain RP, even if others break rules.
 - Private Practices and the CMO are not Outlaw Doctors and are prohibited from acting as such.
 
 - Should the patient be knocked unconscious after the Outlaw Doctor has revived them once already, the scene has concluded. No repeat revives are allowed, even in the event of NVL after treatment. Leave the body, or dump
-
  
 # Pregnancy RP and Aging
 
-
 - Every aspect of pregnancy and family RP needs to be clearly agreed upon by both parents involved and consented to before any RP involving Pregnancy happens. This means the length of time they wish to RP it out, the number of children, etc.
 
-​
 ## Players interested in roleplaying a Pregnancy must abide by the following guidelines
-
 
 - Pregnancy has a minimum duration of 1.5 Months. Do not roleplay pregnancy loss. 
 
@@ -609,54 +569,28 @@ Stay immersive and maintain RP, even if others break rules.
 
 - Child murder/torture, or even threats of such, are never allowed, even when still in the womb.
 
- 
 # Gang Rules
-
 
 - Make your gang known to the staff if you want gang privileges via a ticket. Non-whitelisted gangs are limited to a maximum of 12 people.
 
 - Gangs can have more than 12 members if whitelisted
-​
-- Gangs get access to 1 gang-themed drug after whitelist approval, and 3-4 months of solid RP. Include a proposal for your gang drug in your gang whitelist ticket for future reference.
 
 - Gangs can defend their home base with any number up to a maximum of 12; any reservists must remain non-combatants. 
 
 - 12 v 12 is allowed only when a ticket with staff is made and approved with both party leaders, law vs gang or gang vs gang and staff.
-
- 
-## Gang Strikes
-
-- Every gang is limited to 3 active gang strikes. After receiving 3 gang strikes, a gang will lose all gang privileges, such as
- 
-- Their main hideout, which they chose to defend with 12 players. 
- 
-- They lose any and all access to their chosen whitelisted drug. 
- 
-- Custom gang discord tag revoked.
- 
-- To receive a gang strike, a minimum of 3 members of the gang/group must have been involved in a scene with anyone in their gang committing a rule break. A single strike falls off after 30 days of no additional Gang Strikes issued.
- 
-- If the player with the active strike is permanently removed from the gang, the strike no longer counts for the gang, but does follow the character.
- 
-- More than 5 total accumulated strikes = dissolution of the gang
-​
  
 # Miscellaneous Rules
 
-
 ## Law and Politics
 
- 
 - In all regions, characters cannot hold both a position in law/army and a government position. If elected or appointed, the character is required to resign. A region is defined as the USA, Mexico, and Guarma. Jurisdictions within these regions would apply to this rule as well.
 
-​
 ## Sisika Roleplay
 
 - Do not break into Sisika to sell goods, perform jobs, or engage in similar activities. This is a maximum-security institution, and unannounced visitors will be treated as a serious security threat. Realistically, this would result in being shot or otherwise severely dealt with. This will be considered as a No Value for Life rulebreak.
 
 - Attacking Guards or Lawmen within Sisika without justification—such as self-defense or a valid roleplay scenario—will also be considered an NVL rulebreak. Sisika is a high-security prison, and any unwarranted aggression against officials inside its grounds is treated as an extreme disregard for life.
 
-​
 ### Smuggling
 
 - Smuggling only happens at night, into the secret Dead Drop location.
@@ -666,7 +600,6 @@ Stay immersive and maintain RP, even if others break rules.
 - Prisoner Chests and storage that are not Warden-controlled will be searched at any time.
 
 - Chests and Storage hidden around Sisika will be destroyed, no questions asked.
-
 
 ### Prison Breaks
 
@@ -679,7 +612,6 @@ Stay immersive and maintain RP, even if others break rules.
 - When breaking someone from prison or a transport, your group should not exceed the limit of 6, including those you are breaking free. Unless the people you are breaking free remain non-combatants the entire time, you have more than 6 in your group.
 
 - Sisika prison break attempts with larger groups must be approved by Admin.
-
 ​
 ### Businesses and Homes
 ​
@@ -689,27 +621,22 @@ Stay immersive and maintain RP, even if others break rules.
   
 - Before selling a business IC, you are REQUIRED to make a ticket with the proper paperwork. Not complying with this will result in the removal of the business and may prevent future ownership of new businesses.
 
-- Business owners are required to own their business for 90 days before selling. Once a business is sold, business owners must wait 30 days before applying for another business.
- 
 - Players are limited to One Business per player. You may not own multiple businesses and have managers run them. This also includes pop-up shops. Owners cannot own a whitelisted business and a pop-up shop at the same time.
 
 - Pop-up shops cannot be privately sold. New owners will need to go through the government process to obtain a new pop-up shop token.
  
-- Multiple businesses may be owned by a family or a group (Limited to one per type), each with its own unique owners per business.
+- Multiple businesses may be owned by a family or a group (Limited to two per type), each with its own unique owners per business.
 
-- Businesses cannot be added to wills. If you currently have it where your business is in your will, please work with your lawyer IC to adjust it.
-
-Please refer to the Business tab for more information.
-
-- If someone has you hogtied and wants your “key” to your built door, you must open the door for them. 
+- Businesses cannot be added to wills.
 
 - Players are limited to One Home per Player. Alternate characters can live within homes, but players cannot own more than 1 home.
 
+- Please refer to the Business tab for more information.
 
 # Multi Job Rules
 
-- You cannot have two jobs that earn a government paycheck, a maximum of 2 jobs per character
-
+- You cannot have two jobs that earn a government paycheck.
+  
 - Do not complete your own supply chains, ie, blacksmiths should go to a carpenter for supplies instead of using multijob to craft both carpenter and blacksmith items.
 
 - Players are not allowed to have more than one character in the same line of work.
@@ -717,7 +644,6 @@ Please refer to the Business tab for more information.
 # IC Pinboard Artwork Guidelines
 
 To keep IC pinboards immersive and consistent with the setting, all artwork must follow these rules.
-
 
 ## Rules
 
@@ -746,18 +672,15 @@ To keep IC pinboards immersive and consistent with the setting, all artwork must
    - No explicit or overly sexual imagery.  
    - Must follow server-wide rules.
 
-6. **Poster Limit**  
-   - Each character may post up to 2 posters per pinboard, including business advertisements.  
-   - No business may be advertised more than 2 times on the same pinboard.  
-
+6. **Poster Limit**    
+   - No business may be advertised more than 3 times on the same pinboard.  
 
 ## Review & Rejection
 
 - Art Team reviews reported works for compliance.  
 - Low-effort, flawed, or immersion-breaking works will be rejected.
-- The Art Team reserves the right to remove posters they feel do not fit the image of Gilded, even if they otherwise follow the above rules.
-
-
+- The Art Team reserves the right to remove posters they feel do not fit the image of Gilded, even if they otherwise follow the above rules
+  
 # Tailor Mannequin Script Rules
 
 - The tailor mannequin script enhances roleplay by allowing tailors to craft outfits. Users must prioritize immersion, historical accuracy, and meaningful roleplay.
@@ -766,16 +689,16 @@ To keep IC pinboards immersive and consistent with the setting, all artwork must
 
 - **Niche Clothing** Items like belly dancer attire or unusual pieces (e.g., turtle shells, bloodied suits) are restricted to characters with relevant historical/roleplay context and require staff approval. Misuse is punishable.
 
+- **Native Tailors** Native Tailors may only make native clothing through the mannequins.
+
 - **Restricted Items** Black KKK hoods, nudist/inappropriate attire, and extreme immersion-breaking items are prohibited. Other restricted pieces require staff approval via a ticket for specific use.
 
 - **Access** Script is job-locked to tailors; higher ranks may access niche items with approval. It supplements, not replaces, the existing crafting system for small items.
 
 - **Roleplay** Mid-scene Outfit changes need IC justification. Excessive use without context is Fail RP.
 
-
 # Gilded RP Animal PED Rules
 # General rules
-
 
 - You must act as your chosen PED animal would realistically behave. Domesticated animals will be more willing to be around humans, while wild animals will be afraid of almost all humans.
 
@@ -787,13 +710,11 @@ To keep IC pinboards immersive and consistent with the setting, all artwork must
 
 - Rabies and other animal diseases require consent.
 
-
 # Ped Combat rules
 
 - You cannot attack unprovoked; that is still considered RDM. Ensure that there is adequate RP beforehand, for example, a dog would growl and bark, a cat would hiss and puff its tail. There are physical things you can /do to show a warning of an attack.
 
 - If cornered/threatened, you may attack ONCE and then retreat. You cannot attack again for a minimum of 30 seconds.
-
 
 # Additional Law Dog rules
 
@@ -803,9 +724,7 @@ To keep IC pinboards immersive and consistent with the setting, all artwork must
 
 - Lawdogs and handlers must adhere to the Lawdog SOPs.
 
-
 # BUILDING and CAMP RULES
-
 
 - The Camping Authority will remove non-compliant camps or builds without warning.
 
@@ -815,11 +734,9 @@ To keep IC pinboards immersive and consistent with the setting, all artwork must
 
 - Camps and Storages will be removed by the Housing Authorities without warning if left unused/inactive for 3 Weeks
 
-
 # 1. General Camp and Build Rules
 
 ## Camps should look like a camp, consisting of
-
 
 - Tents (maximum of 4 per camp)
 
@@ -833,19 +750,13 @@ To keep IC pinboards immersive and consistent with the setting, all artwork must
     
 - Placing a Camp or Storage in or around Mining Locations "Public or Hidden" will be removed without warning!
 
-
 # 2. Storage and Lighting Limits
-
 
 - Do not place more than 5 Light Emitting Object per area or across the map.
 
 - There are no limits on storage containers just follow max build limits
 
-
 # 3. Placement and Space Rules
-
-
-- Camps must be spaced out, if an area is occupied "within Shouting Range" move elsewhere
 
 - Do not block access to pathways, roads, towns, camps, tents, entrances, exits, or any public or private area.
 
@@ -853,21 +764,17 @@ To keep IC pinboards immersive and consistent with the setting, all artwork must
 
 - Trespass signs are for private property only and cannot be used to claim a campground.
 
-- Fences, walls, roofing, and doors are banned outright for camps and towns unless permitted by staff
-
 - Beams can only support the underside of a foundation, NOT be placed above it
-
 
 # 4. Restricted and Prohibited Build Areas
 
-
 - DO NOT camp or build in Wildlife Preserves, Historic Sites, or Legendary Hunt Areas.
+
+- DO NOT place electric lights in areas where there would be no eletricity.
 
 - Historic Sites = Ruins, burned-down buildings, pre-placed game camps, stone walls, or unique landmarks like the Giant Tree north of Blackwater or the tiny church in Lemoyne.
 
-
 # Character Appearance
-
 
 - You must use a realistic-looking appearance. 
 
@@ -879,20 +786,12 @@ To keep IC pinboards immersive and consistent with the setting, all artwork must
 
 - Do not change your hair and appearance drastically more than once per 24-hour period.
 
- 
 # /Scene (Command)
-
 
 - This command is to enhance scenes or provide RP to people who come into a location where something may have happened they cannot visually see. If needed, Staff will restrict this down. Please use it responsibly so we don't have to remove it.
 
-- Do not advertise with these, use notes and custom flyers for that!
+- Do not advertise with these/use them as signs, use notes and custom flyers for that!
  
 - Do not use bright, flashy text colors or background colors.
 
-- Keep the word count as low as possible! 
-
-​
-# Erotic Roleplay and Consent
-
-
-#### Keep it private!
+- Keep the word count as low as possible!
