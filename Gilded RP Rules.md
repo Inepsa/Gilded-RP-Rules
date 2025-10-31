@@ -317,8 +317,6 @@ Stay immersive and maintain RP, even if others break rules.
 
 - Ropes and Bindings are powerful tools in roleplay. Players using tools to restrain others, and those properly restrained, should abide by the restrictions presented here.
 
-- Do not ragdoll or lie down to get out of any restraints.
-
 - Do not restrain a player without proper initiation and expressed intent for the scene to advance to the use of restraints.
 
 - Once hogtied, players should not break out of the ropes. Players should never break out of hogties while in an active scene with their captor(s), while being carried, or when on the back of a horse
@@ -351,8 +349,6 @@ Stay immersive and maintain RP, even if others break rules.
 
 - Players may conceal carry any single revolver in the Left Handed Holster Position only, while also wearing a long “trench coat” style coat.
 
-- You cannot chain rob players over and over. Robberies should include RP for both sides. Repeated, low-tier robberies within close proximity to each other will be considered chain robbing.
-
 # Train Robberies
 
 - Train drivers are obliged to stop the train if a wagon or ambush is placed clearly on the track.
@@ -379,7 +375,7 @@ Stay immersive and maintain RP, even if others break rules.
 
 - If you do go the route of corruption, you must be willing to face the consequences of your actions.
 
-- You must abide by all robbery rules, and may not craft supplies to sell.
+- You must abide by all robbery rules, and may not craft supplies to sell or benefit your crew.
 
 # Underground Hideouts
 
