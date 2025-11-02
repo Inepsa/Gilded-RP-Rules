@@ -13,7 +13,7 @@ Interested in owning a business in Gilded? This guide will break down the SOPs f
 
 ## 🔹 Starting a Business
 
-- **Application Submission:** Business applications must be sent to our Roles & Applications tab(https://discord.com/channels/737446331920023628/1003417113781870592/1384588523306356940). Please note that you must be a citizen of the area (USA, Guarma, Mexico) before submitting your application. Applications will have deadlines and will be reviewed and voted on by Jr. Admin+ before accepting or rejecting.
+- **Application Submission:** Business applications must be sent to our Roles & Applications tab (https://discord.com/channels/737446331920023628/1003417113781870592/1384588523306356940). Please note that you must be a citizen of the area (USA, Guarma, Mexico) before submitting your application. Applications will have deadlines and will be reviewed and voted on by Jr. Admin+ before being accepted or rejected.
 - **Post-Application Acceptance:** If your business application is accepted, you will receive an acceptance message from the bot. Once you receive such a message, open a support ticket to begin the setup process.
 
 ---
@@ -41,7 +41,8 @@ Interested in owning a business in Gilded? This guide will break down the SOPs f
 ## 🔹 Custom Item Restrictions
 
 We have only a few restrictions regarding items:
-- No bags/containers that can hold items, as they are buggy and are still being worked on.
+- No bags/containers that can hold items.
+- No protective vests.
 - Price gouging is not allowed, and you will be pulled over for a ticket if caught doing so. If the act is continued after being pulled over for it, you will be subjected to a harsher punishment.
     - Price gouging is when someone sells an item for way more than it’s actually worth, especially compared to the cost of materials. **The maximum allowed price of a product is no more than 300% of its material cost. Violations may lead to a business strike or repossession.**  
    _This rule applies to custom machines and items created by businesses. It aims to keep such products accessible and prevent them from being overpriced. Smaller items, such as food, may continue to be sold at their current prices._
@@ -51,11 +52,11 @@ We have only a few restrictions regarding items:
 
 ## 🔹 Selling or Transferring a Business
 
-- **Ownership Limit:** You are required to own your business for at least 90 days before a business is sold or transferred. As stated in the rules, if you sell/transfer your business before your 90 days, you will be blacklisted from owning another business.
+- **Ownership Limit:** You are required to own your business for at least 90 days before a business is sold or transferred. As stated in the rules, if you sell/transfer your business before your 90-day period is over, you will be blacklisted from owning another business.
     - If you sell your business, you are required to wait 30 days before applying for a new business.
 - **Private Sale of Business:** Businesses have set prices that must be paid out to the predecessor. You may not overpay or underpay for the business, and you are required to submit documentation in a ticket. You are **REQUIRED** to open a ticket before selling a business to inform the Staff about the intent to sell.
 - **Private Transfer of Business:** Transfers must be documented in a ticket with the proper paperwork.
-- **Last Wills & Business:** Businesses cannot be added to your wills. If a character dies, their business will either go to their most active employee or it will go back into applications if said employee owns a business already.
+- **Last Wills & Business:** Businesses cannot be added to a character's will. If a character dies, their business will either be inherited by their most active employee or revert to the application process if the most active employee already owns a business.
 
 ---
 
