@@ -349,6 +349,14 @@ Stay immersive and maintain RP, even if others break rules.
 
 - Players may conceal carry any single revolver in the Left Handed Holster Position only, while also wearing a long “trench coat” style coat.
 
+- # Wagon and Horse Saddlebag Robberies
+ 
+- You must RP with the person driving the wagon/riding the horse to rob it, don't just rob wagons/saddlebags sitting around without providing RP.
+
+- Wagons/Horses have no stack limits for robberies. Robbing the wagon means you forgo the robbery of the rider or passengers.
+
+- Wagons/Horses can be stolen and ridden away, creating a chase with the owner. In a chase, when the wagon owner, law, or vigilantes catch up, they must demand the wagon to stop, announcing themselves. If the wagon refuses to stop, gunplay is now live.
+
 # Train Robberies
 
 - Train drivers are obliged to stop the train if a wagon or ambush is placed clearly on the track.
@@ -394,14 +402,6 @@ Stay immersive and maintain RP, even if others break rules.
 - Do not start raids for 30 minutes before a restart or 15 minutes after one.
  
 - Non-whitelisted gangs and groups can own 1 hideout, whitelisted gangs can have two.​ Whitelisted gangs can pick the location of their second hideout by making a ticket.
- 
-# Wagon and Horse Saddlebag Robberies
- 
-- You must RP with the person driving the wagon/riding the horse to rob it, don't just rob wagons/saddlebags sitting around without providing RP.
-
-- Wagons/Horses have no stack limits for robberies. Robbing the wagon means you forgo the robbery of the rider or passengers.
-
-- Wagons/Horses can be stolen and ridden away, creating a chase with the owner. In a chase, when the wagon owner, law, or vigilantes catch up, they must demand the wagon to stop, announcing themselves. If the wagon refuses to stop, gunplay is now live.
 
 # NVL / Fear RP 
 
@@ -448,14 +448,6 @@ Stay immersive and maintain RP, even if others break rules.
 - Someone at the scene where you were knocked unconscious can refresh your memory of what happened as long as they were never unconscious themselves.
 
 - Do not take a local doctor (pressing E) if there are people right around you or roleplay is still ongoing at the scene you are in.
-
-# Baiting
-
-- Do not kill yourself or others to bait law or doctors to your location. Using Alerts of any Kind is also not allowed.
-
-- Baiting through RP planning, threats, and skullduggery is viable and acceptable.
-
-- Ambushing or Setting a Trap, so long as the Trap is in a logical location, like an Alley, a Secluded Space, or in the Wilds, is also allowed.
 
 # Combat Logging
 
