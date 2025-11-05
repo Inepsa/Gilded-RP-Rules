@@ -289,6 +289,8 @@ Stay immersive and maintain RP, even if others break rules.
 
 - Drug Selling/Crate Robbery: 3 criminals with 3 law responding
 
+- Grave Robbery: 3 criminals with 3 law responding
+
 - House Robberies: 3 criminals with 4 law responding
 
 - Store Robberies: 4 criminals with 5 law responding
@@ -473,7 +475,7 @@ Stay immersive and maintain RP, even if others break rules.
 
 - Alternate law/criminal characters cannot be in high command of either organization unless approved by the Staff.
 
-- Eg. No Law as a Sheriff/USMO if you have a Criminal as a leader/head of a Criminal Group.
+- Eg. No Law as a Command Law/USMO if you have a Criminal as a leader/head of a Criminal Group.
 
 - Alternate law/criminal characters should not make the same region their home base or main area
 
@@ -535,7 +537,7 @@ Stay immersive and maintain RP, even if others break rules.
 
 - Private Practices and the CMO are not Outlaw Doctors and are prohibited from acting as such.
 
-- Should the patient be knocked unconscious after the Outlaw Doctor has revived them once already, the scene has concluded. No repeat revives are allowed, even in the event of NVL after treatment. Leave the body, or dump
+- Should the patient be knocked unconscious after the Outlaw Doctor has revived them once already, the scene has concluded. No repeat revives are allowed, even in the event of NVL after treatment. Leave the body.
  
 # Pregnancy RP and Aging
 
