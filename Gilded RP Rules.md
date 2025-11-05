@@ -145,7 +145,7 @@ https//github.com/Inepsa/Gilded-RP-Rules/commits/main/
 
 - Killing NPCs without reason or engagement to justify retaliation.
 
-- Shit talking downed bodies excessively. One or two lines, perhaps. Never more.
+- Shit talking downed bodies excessively. Keep said shit talking related to the Rp rather than the win.
 
 - Using a friend or gang member as a hostage.
 
@@ -417,13 +417,11 @@ Stay immersive and maintain RP, even if others break rules.
 
 - Victims must wait 1 hour after a scene ends before seeking interaction or revenge of any sort on their aggressors.
 
-# Body Dumping
+# Body Dumping and Camping
 
 - Players are prohibited from dumping bodies; the only exception to moving a body is moving it to a doctor's office or somewhere to be revived.
 
 - You cannot camp a body waiting for a doctor to show up.
-
-# Body Camping
 
 - Body Camping is the act of staying near a body in order to keep them forcefully locked in a scene and unable to call a doctor or revive after their timer is up.
 
