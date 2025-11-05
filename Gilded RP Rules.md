@@ -375,7 +375,7 @@ Stay immersive and maintain RP, even if others break rules.
 
 - You (or your gang) can rob a house multiple times per day, with a 30 minute cooldown.
 
-- You (or your gang) can rob a player, with a 2-hour cooldown.
+- You (or your gang) can rob a player, with a 1-hour cooldown.
 
 # Corruption
 
