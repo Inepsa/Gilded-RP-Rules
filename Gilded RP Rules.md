@@ -109,7 +109,7 @@ https//github.com/Inepsa/Gilded-RP-Rules/commits/main/
  
 # Player Equipment
 
-- Players are expected not to carry weapons beyond their means. Carry only what you can logically equip on your weapon wheel and leave the extras at home or in storage.
+- Players are expected not to carry weapons beyond their means. Carry only what you can logically equip on your weapon wheel(E.I. 2 sidearms, 2 longarms) and leave the extras at home or in storage.
 
 - Equipping a weapon from your pockets, aside from when just waking up, should be done in a logical place, such as near a storage, a horse, or a weapon case.
 
