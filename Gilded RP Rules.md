@@ -2,17 +2,17 @@
 
 - Personal insults and/or verbal attacks outside of specific role-play situations and all forms of harassment are prohibited and will result in a ban.
 
-- The utilization of glitches, exploits(macros), hacks, or bugs for personal gain will result in disciplinary action. There is a zero tolerance for hacking, including but not limited to script/resource injection, which will result in a permanent ban. If you find a glitch or in-game exploit, please notify the staff team by opening a ticket.
+- Using glitches, exploits (macros), hacks, or bugs for personal gain will lead to action. Hacking, including script or resource injection, leads to a permanent ban. If you find a glitch or exploit, notify staff by opening a ticket.
 
-- Racism, Homophobia, Transphobia, Sexism, Hate Speech, and all forms of targeted, derogatory, or abusive language will not be tolerated and will result in a permanent ban.
+- Racism, homophobia, transphobia, sexism, hate speech, or any targeted, abusive words will result in a permanent ban.
 
 - Suicide roleplay or self-harm roleplay of any kind is not tolerated and will result in a permanent ban.
 
-- Gilded RP is set in an alternate universe from real life. In this universe, slavery does not exist; thus, any type of roleplay involving slavery is prohibited.
+Gilded RP is in an alternate universe where slavery does not exist. Any roleplay involving slavery is not allowed.
 
-- Should disagreements or instances of rule-breaking occur in the game, all members should attempt to roleplay through them without breaking character. Once the scene is completed, members may then send in reports to staff. If the issue is urgent and must be dealt with immediately, such as a Zero Tolerance rule break, you may open a ticket to report the issue.
+- If a disagreement or rule break occurs in-game, try to roleplay through it. Once finished, you may report to staff. For urgent issues like Zero Tolerance violations, open a ticket immediately.
 
-- If staff deems the overall quality of roleplay subpar or inconsistent with the server's goals and values, you may be placed under evaluation by staff. If your in-character conduct is deemed detrimental to the overall quality of roleplay, you may be subject to disciplinary action or removal from the server entirely. 
+- If your roleplay is below server standards, staff may evaluate you. Detrimental in-character behavior can lead to disciplinary action or removal. 
 
 - The application to be whitelisted is in game, a quiz upon first time logging in.
 
@@ -21,13 +21,13 @@ https//github.com/Inepsa/Gilded-RP-Rules/commits/main/
 
 # General Rules 
 
-- Our ruleset is intended to be clear while encouraging roleplay between players. If you suspect a rule to have been broken mid-scene, wait until the scene concludes, then open a ticket.
+- If you believe a rule has been broken during a scene, wait until the scene ends before opening a ticket to report it. This supports continued roleplay and clear reporting.
 
 - You are expected to remain in character and not talk OOC the entire time you are logged into the server.
 
-- While in character, all communication must remain within the server at all times to ensure immersion and consistency. If you are in a third party voice call you are required to be deafened and or muted for the duration of the time you are logged in on Gilded RP.
+- While in character, keep all communication within the server for immersion. If on a third-party voice call, stay deafened or muted while logged into Gilded RP.
 
-- Staff is dedicated to providing a positive and enjoyable experience for everyone within the community.
+- Staff is committed to providing a positive and enjoyable experience for every member of the community.
  
 - Rules as written and rules as intended are both valid aspects that staff will consider during any disciplinary action in regard to any rule, policy, or rule enforcement.
 
@@ -35,13 +35,13 @@ https//github.com/Inepsa/Gilded-RP-Rules/commits/main/
 
 - Characters must be 18+, Players must be 18+.
  
-- Character Names must be realistic for the time period. Names are forbidden from being Historical Character names, Famous Names, Television/Movie Character names, or names relating to Meme Culture/Pop Culture. Names that are also a reference or combination of names falling into the aforementioned categories are also against the rules.
+- Character names must fit the time period. Names of historical, famous, TV/movie, or meme/pop culture figures are forbidden. Any reference or combination of these is also against the rules.
 
 - All names should strive to be unique and avoid having the same name as another active player.
 
 - You must be in character on the server at all times. Roleplay through the encounters in front of you. If there is a rule break, report it AFTER the scenario has completed. (This does not pertain to major rule breaks like hacking, racism, sexual abuse, or major harassment).
 
-- If you intend to engage in hostile RP (eg. robbing) it is HIGHLY RECOMMENDED that you record using Medal or some other platform in case your scene becomes involved in a ticket with a rule break in question.
+- If you plan hostile RP, like robbing, we highly recommend you record the scene in case of tickets about rule breaks.
 
 # Discord Rules
 
@@ -49,13 +49,13 @@ https//github.com/Inepsa/Gilded-RP-Rules/commits/main/
 
 - BE KIND to staff and to each other in Discord and in Tickets.
 
-- Change your Discord name to have your Character’s first name, server nicknames may also not contain any special characters/fonts so staff can ping members for tickets/other needs.
+- Change your Discord name to your character’s first name. Server nicknames must not use special characters or fonts, so staff can ping you for tickets or other needs.
  
-- Don’t DM staff regarding rules or game-related issues; open a ticket. Any advice given by staff in DMs is personal opinions, and not to be regarded as permission in any capacity if later brought into question.
+- Don't DM staff about rules or game issues; instead, open a ticket. Advice from staff in DMs is personal opinion and not official if later questioned.
 
 - No NSFW content (Not Safe For Work).
  
-- Players may disagree with staff, but MUST respect decisions when they are made and conduct conversations in a manner that shows respect.
+- Players may disagree with staff, but must always communicate respectfully and adhere to decisions.
 
 # Zero Tolerance Rules 
 
@@ -71,7 +71,7 @@ https//github.com/Inepsa/Gilded-RP-Rules/commits/main/
 
 - Saying words/phrases in a different language for RP effect is acceptable, but if someone asks you what you were saying, please repeat the word/phrase in English.
 
-- In order to use a Voice Changer, you must make a ticket and pass a voice interview using the voice changer you want to use.
+- To use a voice changer, you must make a ticket and pass a voice interview using the changer you want.
 
 - Our primary method of communication is voice. If you want to play someone without a voice, please make a ticket to obtain approval and access to RP supplements in-game.
 
@@ -83,7 +83,7 @@ https//github.com/Inepsa/Gilded-RP-Rules/commits/main/
 
 - When a player is wearing a face covering, you are not allowed to identify them using their voice alone. The mask must be removed to reveal their face for voice identification to be valid.
 
-- Players can be identified through a combination of unique features such as buckles, unique guns, specific clothing sets, and other distinguishing items and features. Voice identification alone is not permitted while the player is masked, as the voice may belong to a different character played by the same person.
+- Players can be identified by unique features like buckles, guns, clothes, or other distinct items. Voice alone cannot identify a masked player, since someone may use the same voice for other characters.
 
 - Always respect a player's identity claims, even if you have suspicions otherwise.
 
@@ -99,7 +99,7 @@ https//github.com/Inepsa/Gilded-RP-Rules/commits/main/
 
 - If you need to leave a scene early for any reason, create a ticket to inform staff after leaving. This includes your game crashing, or for any IRL reason.
 
-- Do not stop a scene to make a ticket. Try to resolve the situation in character, and make a ticket afterwards if a rule is violated. If possible, resolve the conflict in character.
+- Do not stop a roleplay scene to make a ticket. Try to resolve the situation in character, and submit a ticket to staff afterwards if a rule has been broken. Only open a ticket during the scene if the issue is urgent, like a Zero Tolerance rule break.
 
 - To Submit a Ticket, find the section listed “Tickets” and use the “Open Ticket” Option. Select a ticket option that closely relates to your situation, and Staff will assist as soon as possible.
 
