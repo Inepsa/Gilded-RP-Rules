@@ -787,6 +787,10 @@ To keep IC pinboards immersive and consistent with the setting, all artwork must
 - This command is to enhance scenes or provide RP to people who come into a location where something may have happened they cannot visually see. If needed, Staff will restrict this down. Please use it responsibly so we don't have to remove it.
 
 - Do not advertise with these/use them as signs, use notes and custom flyers for that!
+
+# Erotic Role Play
+
+- Erotic Role Play is not allowed on server, this is a zero tolerance rule.
  
 - Do not use bright, flashy text colors or background colors.
 
