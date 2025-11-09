@@ -337,6 +337,8 @@ Stay immersive and maintain RP, even if others break rules.
 
 - You can only take half of each item stack in someone's inventory. Single items can be taken.
 
+- You must abide by the "Cowboys Honor One" rule, you must leave at least one firearm so the victim can protect themselves from the wilds.
+
 - Do not rob new starting players of their starter money. If you were robbed of your starting cash, open a ticket.
 
 - You must demonstrate a clear hostile intent to rob an individual and give them a chance to react.
