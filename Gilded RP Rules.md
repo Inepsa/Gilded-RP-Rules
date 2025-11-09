@@ -271,6 +271,8 @@ Stay immersive and maintain RP, even if others break rules.
 
 - You cannot hold someone hostage for longer than 20 minutes before starting the robbery you have planned.
 
+- If you engage a group of players in hostile rp, expect that the entire group could retaliate if it makes sense for the scene.
+
 - In Hostile RP, leaving Line of Sight on your victim or aggressor for 5 minutes means the scene is considered over, and proper Roleplay engagement must commence to create a new scene.
 
 - Do not get involved in any scripted robbery(Bank, Store, Dock, Doctor, Fort, etc.) if you are not a part of the active law or criminal group involved.
@@ -787,10 +789,6 @@ To keep IC pinboards immersive and consistent with the setting, all artwork must
 - This command is to enhance scenes or provide RP to people who come into a location where something may have happened they cannot visually see. If needed, Staff will restrict this down. Please use it responsibly so we don't have to remove it.
 
 - Do not advertise with these/use them as signs, use notes and custom flyers for that!
-
-# Erotic Role Play
-
-- Erotic Role Play is not allowed on server, this is a zero tolerance rule.
  
 - Do not use bright, flashy text colors or background colors.
 
