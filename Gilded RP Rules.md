@@ -271,6 +271,8 @@ Stay immersive and maintain RP, even if others break rules.
 
 - You cannot hold someone hostage for longer than 20 minutes before starting the robbery you have planned.
 
+- If you engage a group of players in hostile rp, expect that the entire group could retaliate if it makes sense for the scene.
+
 - In Hostile RP, leaving Line of Sight on your victim or aggressor for 5 minutes means the scene is considered over, and proper Roleplay engagement must commence to create a new scene.
 
 - Do not get involved in any scripted robbery(Bank, Store, Dock, Doctor, Fort, etc.) if you are not a part of the active law or criminal group involved.
@@ -334,6 +336,8 @@ Stay immersive and maintain RP, even if others break rules.
 - The goal of robberies should be to create a story for all involved, not just for the sake of robbing.
 
 - You can only take half of each item stack in someone's inventory. Single items can be taken.
+
+- You must abide by the "Cowboys Honor One" rule, you must leave at least one firearm so the victim can protect themselves from the wilds.
 
 - Do not rob new starting players of their starter money. If you were robbed of your starting cash, open a ticket.
 
