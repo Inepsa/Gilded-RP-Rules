@@ -289,7 +289,7 @@ Stay immersive and maintain RP, even if others break rules.
 
 > **Note:** The **Negotiator is included** in the total number listed below and does **not** count as an additional +1.
 
-- Drug Selling/Crate Robbery: 3 criminals with 3 law responding
+- Drug Selling/Seed Picking/Crate Robbery: 3 criminals with 3 law responding
 
 - Grave Robbery: 3 criminals with 3 law responding
 
