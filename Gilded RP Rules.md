@@ -8,6 +8,8 @@
 
 - Suicide roleplay or self-harm roleplay of any kind is not tolerated and will result in a permanent ban.
 
+- Per CFX TOS, ERP is banned within Gilded.
+
 Gilded RP is in an alternate universe where slavery does not exist. Any roleplay involving slavery is not allowed.
 
 - If a disagreement or rule break occurs in-game, try to roleplay through it. Once finished, you may report to staff. For urgent issues like Zero Tolerance violations, open a ticket immediately.
