@@ -421,7 +421,7 @@ Stay immersive and maintain RP, even if others break rules.
 
 - This does not allow firing without verbal interaction and an initial compliance and acknowledgement of the scene.
 
-- Victims must wait 1 hour after a scene ends before seeking interaction or revenge of any sort on their aggressors.
+- Victims must wait 10 minutes after a scene ends before seeking interaction or revenge of any sort on their aggressors. Constant back and forth griefing will be considered harassment, be courteous.
 
 # Body Dumping and Camping
 
