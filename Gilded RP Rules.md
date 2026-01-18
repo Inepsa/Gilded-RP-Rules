@@ -18,6 +18,8 @@ Gilded RP is in an alternate universe where slavery does not exist. Any roleplay
 
 - The application to be whitelisted is in game, a quiz upon first time logging in.
 
+-Naming Policy - All usernames, character names, and profile content (including Steam names, in-game characters, Discord profiles, and website accounts) must follow community standards. This meansno slurs, impersonation, offensive references, sexual content, or troll material.We reserve the right to ask you to change your name or remove content at any time. Refusal to comply may result in removal from the community. This includes profile pictures, bios, statuses, emojis, and any public content linked to your account within our ecosystem.
+
 #### This ruleset is hosted on GitHub and has a changelog here
 https//github.com/Inepsa/Gilded-RP-Rules/commits/main/
 
