@@ -69,6 +69,8 @@ https//github.com/Inepsa/Gilded-RP-Rules/commits/main/
 
 - Child murder/torture, or even threats of such, are never allowed, even when still in the womb. For more information, see “Pregnancy RP and Aging”
 
+- Modifying graphics, models, or any other form of cheating to gain an advantage over other players in combat is not allowed. Using reshade to make your game look nice is fine, but anything that gives you an advantage over others like removing all grass, removing nighttime, or similar is not allowed.
+
 # Communication Standards
 
 - We are an English-speaking server; you must be able to speak English to play here.
