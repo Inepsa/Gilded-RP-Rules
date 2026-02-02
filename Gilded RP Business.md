@@ -6,14 +6,14 @@ Interested in owning a business in Gilded? This guide will break down the SOPs f
 
 ## 🔹 Resources for Businesses
 
-- **Public Record of Business Owners & Business Prices:** https://bit.ly/new-public-grant-record
-- **Business Customs Pricing:** https://bit.ly/grant-bus-pricing
+- **Public Record of Business Owners & Business Prices:** [Business Public Records Sheet](https://docs.google.com/spreadsheets/d/1PG75uxDYk2HAmSJJvbb-Ev82gkTGMtBDePprCZhFTng/edit?usp=sharing)
+- **Business Customs Pricing:** [Business Custom Item Pricing](https://docs.google.com/spreadsheets/d/1GJuduqQR1MQWtpHXOUEYcOiMNbNTBWf39RYs_1Hk69o/edit?usp=sharing)
 
 ---
 
 ## 🔹 Starting a Business
 
-- **Application Submission:** Business applications must be sent to our Roles & Applications tab (https://discord.com/channels/737446331920023628/1003417113781870592/1384588523306356940). Please note that you must be a citizen of the area (USA, Guarma, Mexico) before submitting your application. Applications will have deadlines and will be reviewed and voted on by Jr. Admin+ before being accepted or rejected.
+- **Application Submission:** Business applications must be sent to our [Application Bot](https://discord.com/channels/737446331920023628/1003417113781870592/1449415362390265979). Please note that you must be a citizen of the area (USA, Guarma, Mexico) before submitting your application. Applications will have deadlines and will be reviewed and voted on by Jr. Admin+ before being accepted or rejected.
 - **Post-Application Acceptance:** If your business application is accepted, you will receive an acceptance message from the bot. Once you receive such a message, open a support ticket to begin the setup process.
 
 ---
@@ -26,24 +26,24 @@ Interested in owning a business in Gilded? This guide will break down the SOPs f
 - First priority should be paying off your loan. Once paid off, you must wait 30 days after payment before receiving your first custom item.
     - Loans can be paid off in chunks. Please open a ticket once the funds are available.
     - After your first custom item, you must wait 90 days for your next free item.
-    - Additionally, if you purchase more items past your free item, you are required to wait **120 days** for the next free item.
-    - Businesses that are eligible to create collaborations are also eligible to create them after the **30 days** after the loan is paid off.
+    - Additionally, if you are eligible to purchase more items past your free item, and choose to do so, you are required to wait **120 days** for the next free item.
+    - Businesses that are eligible to create collaborations may begin to create them **30 days** after the loan is paid off.
+  
 ---
 
 ## 🔹 Business Collaborations
 
 - Business collaborations are capped at one (1) per non-collaborative business per three (3) months.
-    - Example: if you purchase a collaboration soda as a saloon, it would count towards your saloon's one collaboration slot, and your business will be eligible for another business collaboration after three (3) months.
-    - The collaborating company must solely sell this item to the business that paid for the collaboration. If caught selling the item without permission, it can result in legal action in character.
+    - Example: if you purchase a collaboration soda as a saloon, it would count towards your saloon's one (1) collaboration slot, and your business will be eligible for another business collaboration after three (3) months.
+    - The collaborating business must solely sell this item to the business that paid for the collaboration. If caught selling the item without permission, it can result in legal action in character.
 
 ---
 
 ## 🔹 Custom Item Restrictions
 
 We have only a few restrictions regarding items:
-- No bags/containers that can hold items.
 - No protective vests.
-- Price gouging is not allowed, and you will be pulled over for a ticket if caught doing so. If the act is continued after being pulled over for it, you will be subjected to a harsher punishment.
+- Price gouging is not allowed, and you will be pulled into a ticket if caught doing so. If the act is continued after it has been addressed, you will be subjected to a harsher punishment.
     - Price gouging is when someone sells an item for way more than it’s actually worth, especially compared to the cost of materials. **The maximum allowed price of a product is no more than 300% of its material cost. Violations may lead to a business strike or repossession.**  
    _This rule applies to custom machines and items created by businesses. It aims to keep such products accessible and prevent them from being overpriced. Smaller items, such as food, may continue to be sold at their current prices._
 - You are allowed to make a similar item to another business; however, you may not include verbiage that indicates the item is "better" or language that insinuates competition.
@@ -62,9 +62,28 @@ We have only a few restrictions regarding items:
 
 ## 🔹 Repossession Rules
 
-If a business is perceived to be inactive, players are allowed to open a ticket and inquire about said business. If a business is found to be inactive (with no player activity or inventory movement) for 30 days or if the business does not provide any roleplay activities without an LOA notice, that business will be repossessed by the government. If the business is repossessed, the previous owner will be blacklisted from owning a business for a period of 90 days.
+If a business is perceived to be inactive, players can open a ticket to inquire about it. If a business is found to be inactive (with no player activity or inventory movement) for 30 days, or if it does not provide any roleplay activities without an LOA notice, the business will be repossessed by the government. If the business is repossessed, the previous owner will be blacklisted from owning a business for 90 days.
 
-- If you will be inactive, please submit an LOA via ticket with a timeline. If you need to extend the length of your LOA, please open a follow-up ticket.
+- If you will be inactive, please submit an LOA via ticket with a timeline. If you need to extend your LOA, please open a follow-up ticket.
+
+---
+
+## 🔹 Business Upgrades
+
+Businesses may purchase certain upgrades based on their type.
+
+Available to all businesses:
+- Spacebar Storages: Add a spacebar prompt storage to the business. Minimum 5000 slots. $0.50 in-game currency per slot.
+- G Menu Storage Upgrade: Upgrade the storage of the business G menu. $0.50 in-game currency per slot.
+- Wagon Dump to G Menu Storage: Allows the dumping of a wagon's contents into the G Storage of a business within a radius of the G Menu. $25,000 in-game currency.
+- Processing Bench: A bench to process basic items. $10,000 in-game currency.
+
+Available to Ranches/Stables:
+- Shared Stable: Allows the sharing of horses and wagons between certain ranks of employees via a separate stable. $20,000 in-game currency.
+
+Available to Ranches:
+- Milk/Eggs: Add milk canisters and chicken coops to the ranch. Includes a large chicken coop. $8,000 in-game currency.
+- Farmland Upgrade: Up the fertility of farmland. $5,000 in-game currency per 5% increase, up to 75% total fertility. 
 
 ---
 
