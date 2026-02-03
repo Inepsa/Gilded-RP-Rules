@@ -77,6 +77,7 @@ Available to all businesses:
 - G Menu Storage Upgrade: Upgrade the storage of the business G menu. $0.50 in-game currency per slot.
 - Wagon Dump to G Menu Storage: Allows the dumping of a wagon's contents into the G Storage of a business within a radius of the G Menu. $25,000 in-game currency.
 - Processing Bench: A bench to process basic items. $10,000 in-game currency.
+- Change Business Telegram/Job Name: Change the business telegram and job title. This may be done only once per business and must follow this format: business name, location (e.g., valentineblacksmith). $75,000 in-game currency.
 
 Available to Ranches/Stables:
 - Shared Stable: Allows the sharing of horses and wagons between certain ranks of employees via a separate stable. $20,000 in-game currency.
