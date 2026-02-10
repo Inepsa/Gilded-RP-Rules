@@ -391,7 +391,7 @@ Stay immersive and maintain RP, even if others break rules.
 
 # Corruption
 
-- DOJ may not be corrupt.
+- DOJ members may not be corrupt (this includes, but is not limited to, Judges, District Attorneys, Assistant District Attorneys, and Marshals).
 
 - If you do go the route of corruption, you must be willing to face the consequences of your actions.
 
