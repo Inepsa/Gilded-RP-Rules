@@ -609,11 +609,7 @@ Stay immersive and maintain RP, even if others break rules.
 
 ### Prison Breaks
 
-- Prison breaks remain only approved via ticket.
-
 - Only a maximum of 2 prisoners can break out at a time.
-
-- Breakouts must be backed by at least 3 weeks of prep and planning that will be reviewed for story validity by Staff in their breakout ticket.
 
 - When breaking someone from prison or a transport, your group should not exceed the limit of 6, including those you are breaking free. Unless the people you are breaking free remain non-combatants the entire time, you have more than 6 in your group.
 
