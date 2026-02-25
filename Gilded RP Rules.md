@@ -440,14 +440,15 @@ Stay immersive and maintain RP, even if others break rules.
 # Permanent Harm in Torture RP
 
 - You must get consent from the party you plan to torture and cause permanent physical harm to. Please get consent using /do. If you torture someone this way, you are automatically consenting to be tortured in the future by that same person, not everyone.
-
 - Psychological torture and temporary harm (ie, beatings) are not included in this.
-
 - The person being tortured gets to pick their wounds.
+- Example: "/do Clarence holds his knife to Jim’s eye, clearly wanting to cut it out, just waiting for the right moment." In this example, Clarence would need to wait for a sign from Jim to move forward.
+- Without a /do in return torture cannot proceed. This automatically logs this on our end.
 
-- Example “/do Clarence holds his knife to Jim’s eye, clearly wanting to cut it out, just waiting for the right moment.” In this example, Clarence would need to wait for a sign from Jim to move forward.
+## Human Meat / Unknowing Cannibalism
 
-- Without a /do in return torture cannot proceed. This automatically logs this on our end
+- Handing someone human meat or causing a character to unknowingly consume human flesh is treated as permanent harm roleplay and requires prior consent through /do.
+- The receiving player decides the outcome, reaction, and any lasting effects on their character.
  
 # NLR (New Life Rule)
 
