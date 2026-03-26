@@ -39,14 +39,17 @@ Interested in owning a business in Gilded? This guide will break down the SOPs f
 
 ---
 
-## 🔹 Custom Item Restrictions
+## 🔹 Custom Item Rules and Restrictions
+- Businesses must be fully paid off before requesting any custom items.
+- A 30-day waiting period is required after the final loan payment before requesting the first custom item.
+- After receiving the first custom item, a 90-day waiting period is required before requesting another custom item.
+- Businesses purchasing additional custom items must wait 120 days (instead of 90) before requesting another custom item.
 
 We have only a few restrictions regarding items:
 - No protective vests.
 - Price gouging is not allowed, and you will be pulled into a ticket if caught doing so. If the act is continued after it has been addressed, you will be subjected to a harsher punishment.
     - Price gouging is when someone sells an item for way more than it’s actually worth, especially compared to the cost of materials. **The maximum allowed price of a product is no more than 300% of its material cost. Violations may lead to a business strike or repossession.**  
    _This rule applies to custom machines and items created by businesses. It aims to keep such products accessible and prevent them from being overpriced. Smaller items, such as food, may continue to be sold at their current prices._
-- You are allowed to make a similar item to another business; however, you may not include verbiage that indicates the item is "better" or language that insinuates competition.
 
 ---
 
