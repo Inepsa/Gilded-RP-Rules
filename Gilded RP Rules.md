@@ -614,7 +614,7 @@ Stay immersive and maintain RP, even if others break rules.
 
 - When breaking someone from prison or a transport, your group should not exceed the limit of 6, including those you are breaking free. Unless the people you are breaking free remain non-combatants the entire time, you have more than 6 in your group.
 
-- Sisika prison break attempts with larger groups must be approved by Admin.
+- To break out of Sisika your gang or group has to break you out using dynamite. Gangs go to Sisika via their own boat, go to the back entrance and plant dynamite to break prisoners out. A bounty is automatically issued for those broken out of Jail
 ​
 ### Businesses and Homes
 ​
