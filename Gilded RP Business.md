@@ -36,6 +36,7 @@ Interested in owning a business in Gilded? This guide will break down the SOPs f
 - Business collaborations are capped at one (1) per non-collaborative business per three (3) months.
     - Example: if you purchase a collaboration soda as a saloon, it would count towards your saloon's one (1) collaboration slot, and your business will be eligible for another business collaboration after three (3) months.
     - The collaborating business must solely sell this item to the business that paid for the collaboration. If caught selling the item without permission, it can result in legal action in character.
+    - Custom collaboration items may be transferred at the request of the collaborating party with proper in-character paperwork.
 
 ---
 
@@ -47,6 +48,7 @@ Interested in owning a business in Gilded? This guide will break down the SOPs f
 
 We have only a few restrictions regarding items:
 - No protective vests.
+- Business custom items may not be transferred. Custom items stay with the business they were created for.
 - Price gouging is not allowed, and you will be pulled into a ticket if caught doing so. If the act is continued after it has been addressed, you will be subjected to a harsher punishment.
     - Price gouging is when someone sells an item for way more than it’s actually worth, especially compared to the cost of materials. **The maximum allowed price of a product is no more than 300% of its material cost. Violations may lead to a business strike or repossession.**  
    _This rule applies to custom machines and items created by businesses. It aims to keep such products accessible and prevent them from being overpriced. Smaller items, such as food, may continue to be sold at their current prices._
