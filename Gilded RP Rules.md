@@ -694,7 +694,7 @@ To keep IC pinboards immersive and consistent with the setting, all artwork must
 
 - **Native Tailors** Native Tailors may only make native clothing through the mannequins.
 
-- **Restricted Items** Black KKK hoods, nudist/inappropriate attire, and extreme immersion-breaking items are prohibited. Other restricted pieces require staff approval via a ticket for specific use.
+- **Restricted Items** KKK hoods, nudist/inappropriate attire, and extreme immersion-breaking items are prohibited. Other restricted pieces require staff approval via a ticket for specific use.
 
 - **Access** Script is job-locked to tailors; higher ranks may access niche items with approval. It supplements, not replaces, the existing crafting system for small items.
 
