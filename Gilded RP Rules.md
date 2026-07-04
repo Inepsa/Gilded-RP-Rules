@@ -656,7 +656,7 @@ Stay immersive and maintain RP, even if others break rules.
 
 - Pop-up shops cannot be privately sold. New owners will need to go through the government process to obtain a new pop-up shop token.
  
-- Multiple businesses may be owned by a family or a group (Limited to two per type), each with its own unique owners per business.
+- Multiple businesses may be owned by a family or a group (limited to one per type), each with its own unique owners per business.
 
 - Businesses cannot be added to wills.
 
