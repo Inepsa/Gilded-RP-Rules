@@ -303,11 +303,9 @@ Stay immersive and maintain RP, even if others break rules.
 
 - House Robberies: 3 criminals with 4 law responding
 
-- Store Robberies: 4 criminals with 5 law responding
+- Store Robberies/Pharmacy/Post Office/Dock Robberies (Including SD jewelry store): 4 criminals with 5 law responding
 
-- Pharmacy Robberies: 4 criminals with 5 law responding
-
-- Post Office/Dock Robberies: 4 criminals with 5 law responding
+- Gaptooth Mine Office Robbery: 5 criminals with 6 law responding
 
 - Moonshining: 6 criminals with 6 law responding
 
