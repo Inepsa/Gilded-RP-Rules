@@ -299,6 +299,8 @@ Stay immersive and maintain RP, even if others break rules.
 
 - Grave Robbery: 3 criminals with 3 law responding
 
+- NPC Armed Robberies: 3 criminals with 3 law responding
+
 - House Robberies: 3 criminals with 4 law responding
 
 - Store Robberies: 4 criminals with 5 law responding
@@ -472,6 +474,8 @@ Stay immersive and maintain RP, even if others break rules.
 
 - Alternate Characters are extra characters a player can make in order to experience new stories and different aspects of the world. Characters should be unique from one another and are not allowed to be a direct relative of another character you already play. Alternate characters should strive to have unique stories that do not immediately connect with, or interact with, groups or contacts of your other characters. Do not seek out the same stories or people that your other characters already associate with; crossover in passing is acceptable, but being ingrained in multiple characters blurs the lines of RP and gives great risk of bleeding.
 
+- Players are limited to one Native character. 30 days to comply from 7/5/2026
+
 - When playing a law or criminal character, there is a cooldown with the following stipulations
 
 - You cannot play as a Lawman, then log off and switch to your criminal without waiting 1 hr on your criminal before committing a crime.
@@ -520,7 +524,7 @@ Stay immersive and maintain RP, even if others break rules.
 
 - Contracting a disease like TB, Pneumonia, or other diseases that would result in death in 1903 will result in the permanent death of your character within a timeframe of your choosing. You get to choose if you contract these or not, so be careful. (These diseases require Staff Approval)
 
-- Players that are down for a period exceeding 30 minutes within an active scene where doctors, law, or other medical practitioners are on scene and not reviving you or providing full medical treatment are allowed to revive. All usual New Life Rules still apply.
+- Players that are down for a period exceeding 30 minutes within an active scene are allowed to revive only when it is clear they are being ignored, cannot be seen, and no one is actively checking on, treating, moving, guarding, or otherwise roleplaying with their body. If doctors, law, medical practitioners, or other players are actively engaging with your body or continuing the scene around you, do not revive. All usual New Life Rules still apply.
  
 ## Injury Guidelines
 
@@ -652,11 +656,13 @@ Stay immersive and maintain RP, even if others break rules.
   
 - Before selling a business IC, you are REQUIRED to make a ticket with the proper paperwork. Not complying with this will result in the removal of the business and may prevent future ownership of new businesses.
 
+- Businesses are expected to be operated according to the business application that was filed and approved. Major changes to the business model, goods, services, or purpose require staff approval in a ticket.
+
 - Players are limited to One Business per player. You may not own multiple businesses and have managers run them. This also includes pop-up shops. Owners cannot own a whitelisted business and a pop-up shop at the same time.
 
 - Pop-up shops cannot be privately sold. New owners will need to go through the government process to obtain a new pop-up shop token.
  
-- Multiple businesses may be owned by a family or a group (Limited to two per type), each with its own unique owners per business.
+- Multiple businesses may be owned by a family or a group (Limited to one per type, max 5 total), each with its own unique owners per business. 30 days to comply from 7/5/2026
 
 - Businesses cannot be added to wills.
 
