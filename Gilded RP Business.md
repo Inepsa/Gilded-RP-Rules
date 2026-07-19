@@ -65,6 +65,18 @@ We have only a few restrictions regarding items:
 
 ---
 
+## 🔹 Activity
+Our businesses are strictly required to remain active and actively contribute to the server's ecosystem. Business owners must provide consistent roleplay opportunities, which includes offering employment to other players and taking orders from the community.
+- Depending on your establishment, activity should align with your business type
+Examples:
+- Saloons & Cafes: Must actively host and provide social activities for patrons.
+- Ranches: Must focus on ranch life and related thematic activities.
+- All Businesses: Must accept and process player orders, and engage in collaborative events (collabs) if the business is eligible to do so.
+
+_We allow businesses to be selective with hiring based on roleplay, but you must maintain an active staff. Your employee roster cannot be exclusively made up of close family or gang members._
+---
+
+
 ## 🔹 Repossession Rules
 
 If a business is perceived to be inactive, players can open a ticket to inquire about it. If a business is found to be inactive (with no player activity or inventory movement) for 30 days, or if it does not provide any roleplay activities without an LOA notice, the business will be repossessed by the government. If the business is repossessed, the previous owner will be blacklisted from owning a business for 90 days.
