@@ -681,6 +681,12 @@ Stay immersive and maintain RP, even if others break rules.
     - DOJ Paralegal
     - Beekeeper
     - Fisherman
+    - Saloon Worker
+    - Barber
+    - Soda Shop
+    - Herb Shop
+    - Taxidermist
+    - Tobacconist
     - Group / faction related roles, such as Native, outlaw doctor, or gang roles
 
 - Native specialisations **do count** toward the 2-job limit. This includes, but is not limited to, roles such as Shaman, Tailor, or other specialised Native jobs.
