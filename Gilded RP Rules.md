@@ -315,6 +315,24 @@ Stay immersive and maintain RP, even if others break rules.
  
 # Criminal Activity / Robberies
 
+## Meaningful Hostile Roleplay
+
+Players initiating or participating in robberies, kidnappings, hostage situations, and other serious criminal encounters are expected to actively contribute to meaningful and immersive roleplay.
+
+- Criminals must establish believable hostile intent and actively develop the encounter through appropriate dialogue, threats, demands, or other in-character interactions.
+
+- Hostage situations and negotiations must be treated as genuine, potentially life-threatening encounters rather than routine steps required by server mechanics.
+
+- Law enforcement must respond based on information reasonably available to their characters, without assuming circumstances or outcomes solely because of established server procedures.
+
+- All parties must allow reasonable opportunities for meaningful interaction and appropriate responses before escalating to violence, unless an immediate threat reasonably justifies defensive action.
+
+- Players must not deliberately rush through, trivialize, or undermine serious encounters simply to complete an activity or reach a predetermined outcome.
+
+Server mechanics and rules provide structure for roleplay but do not replace the responsibility to create believable interactions.
+
+Failure to meaningfully participate in a hostile encounter, or deliberately undermining its seriousness through unrealistic behavior, may be considered Fail RP.
+
 # In Character Consequences
 
 - Remand can hold you in jail for multiple days at a time, but requires a serious amount of crime, like anarchy charges, before you obtain one
@@ -415,17 +433,27 @@ Stay immersive and maintain RP, even if others break rules.
  
 - Non-whitelisted gangs and groups can own 1 hideout, whitelisted gangs can have two.​ Whitelisted gangs can pick the location of their second hideout by making a ticket.
 
-# NVL / Fear RP 
+# NVL / Fear RP
 
-- NVL or “No Value for Life” and Fear RP are defined as showing fear for your life in threatening situations. Treat your character’s life as if they only have one. Your character would not be fearless because you can “respawn”. Failure to value your life can result in harm to your character, so act as your character would in any and all fear-inducing events.
+NVL, or “No Value for Life,” means failing to demonstrate believable regard for your character’s life or the lives of others. Fear RP requires characters to respond realistically to danger. These expectations apply to everyone, including criminals, law enforcement, and civilians.
 
-- Value your life and the lives of those your character would value (Law with innocents/hostages, your friends and acquaintances, etc).
+- Treat your character’s life as if they only have one. Players must not disregard credible threats or trivialize serious violence because they understand server mechanics, can respawn, or know their character can be revived.
+
+- Characters must respond realistically to credible threats, including firearms, hostage situations, serious injuries, and other life-threatening encounters. Different personalities and backgrounds may influence those reactions, but responses must remain reasonable and believable within the circumstances.
+
+- Value your life and the lives of others, particularly those your character would reasonably seek to protect, such as friends and acquaintances, or innocents and hostages in the case of law enforcement.
+
+- Criminals must recognize the risks and consequences of committing serious crimes, including the possibility of arrest, injury, or death. Being willing to commit a crime does not make a character immune to fear or the consequences of violence.
+
+- Law enforcement must recognize the dangers associated with armed confrontations, including risks to officers, civilians, and hostages, and the potential consequences of using lethal force.
+
+- Fear RP allows reasonable self-defense, but it must reflect a believable understanding of the danger and follow the restrictions below. A character’s personality or background does not override these requirements.
 
 - In 1v1 and 1v2 situations, the victim is allowed to defend themselves reasonably if they see an opening. This means the gun is lowered or pointed away, giving you an opening. If a gun is held to you, there is no opening for you to draw. Record your gameplay!
 
-- This does not allow firing without verbal interaction and an initial compliance and acknowledgement of the scene.
+- This does not allow firing without verbal interaction and an initial compliance and acknowledgement of the scene. The opportunity to defend yourself does not remove these requirements.
 
-- Victims must wait 10 minutes after a scene ends before seeking interaction or revenge of any sort on their aggressors. Constant back and forth griefing will be considered harassment, be courteous.
+- Victims must wait 10 minutes after a scene ends before seeking interaction or revenge of any sort on their aggressors. Constant back and forth griefing will be considered harassment; be courteous.
 
 # Body Dumping and Camping
 
